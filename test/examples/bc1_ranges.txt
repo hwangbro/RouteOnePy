@@ -1,0 +1,124 @@
+
+BUG CATCHER (0x39dda: L10 Caterpie, L10 Weedle, L10 Caterpie) Prize 100
+LVL 8 EXP NEEDED: 52/105
+L8 NidoranM vs L10 Caterpie          >>> EXP GIVEN: 112
+NidoranM (27/18/14/15/13)
+Leer
+Tackle 5-6	(crit: 6-8)
+	Normal rolls: 5x38, 6x1
+	Crit rolls: 6x7, 7x31, 8x1
+	(Overall 5-hit Kill%: 1.3762%)
+Horn Attack 9-11	(crit: 11-14)
+	Normal rolls: 9x15, 10x23, 11x1
+	Crit rolls: 11x2, 12x18, 13x18, 14x1
+	(Overall 3-hit Kill%: 46.0897%)
+
+Caterpie (30/12/13/15/10)
+Tackle 4-5	(crit: 6-8)
+	Normal rolls: 4x38, 5x1
+	Crit rolls: 6x7, 7x31, 8x1
+	(Overall 5-hit Kill%: 1.0606%)
+	(Overall 6-hit Kill%: 36.5074%)
+String Shot
+
+Range Check 2_bbs: 85.09552%
+	Turn #1: Move: Horn Attack
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Horn Attack
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+Range Check 1_bb: 65.70621%
+	Turn #1: Move: Horn Attack
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Horn Attack
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+
+
+LVL 9 EXP NEEDED: 81/141
+L9 NidoranM vs L10 Weedle          >>> EXP GIVEN: 111
+NidoranM (29/20/15/16/15)
+Leer
+Tackle 5-7	(crit: 9-11)
+	Normal rolls: 5x2, 6x36, 7x1
+	Crit rolls: 9x15, 10x23, 11x1
+	(Overall 4-hit Kill%: 6.7987%)
+	(Overall 5-hit Kill%: 98.6881%)
+Horn Attack 10-12	(crit: 16-19)
+	Normal rolls: 10x17, 11x21, 12x1
+	Crit rolls: 16x12, 17x13, 18x13, 19x1
+	(Overall 2-hit Kill%: 4.8701%)
+
+Weedle (29/13/12/16/10)
+Poison Sting 1-2	(crit: 2-3)
+	Normal rolls: 1x38, 2x1
+	Crit rolls: 2x38, 3x1
+String Shot
+
+Range Check 2_bbs: 93.16013%
+	Turn #1: Move: Horn Attack
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+Range Check 1_bb: 74.93208%
+	Turn #1: Move: Horn Attack
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+Range Check 0_bb: 47.09813%
+	Turn #1: Move: Horn Attack
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+
+
+LVL 10 EXP NEEDED: 152/182
+L10 NidoranM vs L10 Caterpie          >>> EXP GIVEN: 112
+NidoranM (32/21/16/18/16)
+Leer
+Tackle 6-8	(crit: 10-12)
+	Normal rolls: 6x7, 7x31, 8x1
+	Crit rolls: 10x17, 11x21, 12x1
+	(Overall 4-hit Kill%: 32.7508%)
+Horn Attack 11-14	(crit: 17-21)
+	Normal rolls: 11x2, 12x18, 13x18, 14x1
+	Crit rolls: 17x2, 18x12, 19x12, 20x12, 21x1
+	(Overall 2-hit Kill%: 17.8360%)
+
+Caterpie (30/12/13/15/10)
+Tackle 4-5	(crit: 5-7)
+	Normal rolls: 4x38, 5x1
+	Crit rolls: 5x2, 6x36, 7x1
+	(Overall 7-hit Kill%: 11.1815%)
+String Shot
+
+Range Check 2_bbs: 99.16648%
+	Turn #1: Move: Horn Attack
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+Range Check 1_bb: 96.77422%
+	Turn #1: Move: Horn Attack
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod:  +<1/0/0/0>
+		def_mod: +[0/-1/0/0]
+Range Check 0_bb: 91.74359%
+	Turn #1: Move: Horn Attack
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+	Turn #2: Move: Tackle
+		att_mod: <No Stat Modifications>
+		def_mod: +[0/-1/0/0]
+

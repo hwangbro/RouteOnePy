@@ -1,0 +1,211 @@
+
+BROCK (0x3a3b5: L12 Geodude, L14 Onix) Prize 1386
+LVL 4 EXP NEEDED: 39/39
+L4 NidoranM vs L12 Geodude          >>> EXP GIVEN: 220
+NidoranM (18/10/9/10/9)
+Leer
+Tackle 1-1	(crit: 1-1)
+	Normal rolls: 1x39
+	Crit rolls: 1x39
+
+Geodude (33/26/30/11/14)
+Tackle 11-14	(crit: 20-24)
+	Normal rolls: 11x2, 12x18, 13x18, 14x1
+	Crit rolls: 18x39
+	(Overall 1-hit Kill%: 3.9062%)
+Defense Curl
+
+Variation good_defense_0:
+
+	LVL 4 EXP NEEDED: 39/39
+	L4 NidoranM vs L12 Geodude          >>> EXP GIVEN: 220
+	NidoranM (18/10/9/10/9)
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Geodude (33/26/30/11/14)
+	Tackle 11-14	(crit: 20-24)
+		Normal rolls: 11x2, 12x18, 13x18, 14x1
+		Crit rolls: 18x39
+		(Overall 1-hit Kill%: 3.9062%)
+	Defense Curl
+
+Variation bad_defense_0:
+
+	LVL 4 EXP NEEDED: 39/39
+	L4 NidoranM vs L12 Geodude          >>> EXP GIVEN: 220
+	NidoranM (17/9/8/9/8)
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Geodude (33/26/30/11/14)
+	Tackle 12-15	(crit: 22-27)
+		Normal rolls: 12x4, 13x17, 14x17, 15x1
+		Crit rolls: 17x39
+		(Overall 1-hit Kill%: 3.9062%)
+	Defense Curl
+
+LVL 6 EXP NEEDED: 31/57
+L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+NidoranM (23/13/11/12/11)
+Leer
+Tackle 1-1	(crit: 1-1)
+	Normal rolls: 1x39
+	Crit rolls: 1x39
+
+Onix (36/20/52/26/15)
+Tackle 8-10	(crit: 15-18)
+	Normal rolls: 8x13, 9x25, 10x1
+	Crit rolls: 15x10, 16x14, 17x14, 18x1
+	(Overall 2-hit Kill%: 25.4745%)
+Screech
+Bide
+
+Variation good_defense_2:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (23/13/11/12/11) +[0/-2/0/0] -> (23/13/5/12/11
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 17-21	(crit: 15-18)
+		Normal rolls: 17x2, 18x12, 19x12, 20x12, 21x1
+		Crit rolls: 15x10, 16x14, 17x14, 18x1
+	Screech
+	Bide
+
+Variation good_defense_4:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (23/13/11/12/11) +[0/-4/0/0] -> (23/13/3/12/11
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 28-34	(crit: 15-18)
+		Normal rolls: 23x39
+		Crit rolls: 15x10, 16x14, 17x14, 18x1
+		(Overall 1-hit Kill%: 86.3281%)
+	Screech
+	Bide
+
+Variation good_defense_6:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (23/13/11/12/11) +[0/-6/0/0] -> (23/13/2/12/11
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 43-51	(crit: 15-18)
+		Normal rolls: 23x39
+		Crit rolls: 15x10, 16x14, 17x14, 18x1
+		(Overall 1-hit Kill%: 86.3281%)
+	Screech
+	Bide
+
+Variation bad_defense_2:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (21/11/9/11/9) +[0/-2/0/0] -> (21/11/4/11/9
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 22-26	(crit: 18-22)
+		Normal rolls: 21x39
+		Crit rolls: 18x4, 19x11, 20x12, 21x12
+		(Overall 1-hit Kill%: 90.5349%)
+	Screech
+	Bide
+
+Variation bad_defense_4:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (21/11/9/11/9) +[0/-4/0/0] -> (21/11/2/11/9
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 43-51	(crit: 18-22)
+		Normal rolls: 21x39
+		Crit rolls: 18x4, 19x11, 20x12, 21x12
+		(Overall 1-hit Kill%: 90.5349%)
+	Screech
+	Bide
+
+Variation bad_defense_6:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (21/11/9/11/9) +[0/-6/0/0] -> (21/11/2/11/9
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 43-51	(crit: 18-22)
+		Normal rolls: 21x39
+		Crit rolls: 18x4, 19x11, 20x12, 21x12
+		(Overall 1-hit Kill%: 90.5349%)
+	Screech
+	Bide
+
+Variation good_defense_0:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (23/13/11/12/11)
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 8-10	(crit: 15-18)
+		Normal rolls: 8x13, 9x25, 10x1
+		Crit rolls: 15x10, 16x14, 17x14, 18x1
+		(Overall 2-hit Kill%: 25.4745%)
+	Screech
+	Bide
+
+Variation bad_defense_0:
+
+	LVL 6 EXP NEEDED: 31/57
+	L6 NidoranM vs L14 Onix          >>> EXP GIVEN: 324
+	NidoranM (21/11/9/11/9)
+	Leer
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+
+	Onix (36/20/52/26/15)
+	Tackle 10-12	(crit: 18-22)
+		Normal rolls: 10x17, 11x21, 12x1
+		Crit rolls: 18x4, 19x11, 20x12, 21x12
+		(Overall 1-hit Kill%: 4.2067%)
+		(Overall 2-hit Kill%: 85.8397%)
+	Screech
+	Bide
+

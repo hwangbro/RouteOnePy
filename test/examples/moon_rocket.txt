@@ -1,0 +1,56 @@
+
+ROCKET (0x3a29c: L13 Rattata, L13 Zubat) Prize 390
+LVL 14 EXP NEEDED: 287/423
+L14 NidoranM vs L13 Rattata          >>> EXP GIVEN: 157
+NidoranM (41/28/21/23/20)
+Leer
+Tackle 8-10	(crit: 13-16)
+	Normal rolls: 8x13, 9x25, 10x1
+	Crit rolls: 13x7, 14x16, 15x15, 16x1
+	(Overall 3-hit Kill%: 16.1020%)
+Horn Attack 14-17	(crit: 23-28)
+	Normal rolls: 14x8, 15x15, 16x15, 17x1
+	Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+	(Overall 2-hit Kill%: 33.8878%)
+Poison Sting 5-7	(crit: 10-12)
+	Normal rolls: 5x2, 6x36, 7x1
+	Crit rolls: 10x17, 11x21, 12x1
+	(Overall 4-hit Kill%: 4.9140%)
+	(Overall 5-hit Kill%: 40.4899%)
+
+Rattata (32/21/16/25/13)
+Tackle 7-9	(crit: 12-15)
+	Normal rolls: 7x10, 8x28, 9x1
+	Crit rolls: 12x4, 13x17, 14x17, 15x1
+	(Overall 4-hit Kill%: 9.1697%)
+	(Overall 5-hit Kill%: 54.9514%)
+Tail Whip
+Quick Attack 8-10	(crit: 13-16)
+	Normal rolls: 8x13, 9x25, 10x1
+	Crit rolls: 13x7, 14x16, 15x15, 16x1
+	(Overall 4-hit Kill%: 25.9733%)
+	(Overall 5-hit Kill%: 99.8071%)
+
+LVL 14 EXP NEEDED: 130/423
+L14 NidoranM vs L13 Zubat          >>> EXP GIVEN: 150
+NidoranM (41/28/21/23/20)
+Leer
+Tackle 12-15	(crit: 13-16)
+	Normal rolls: 12x4, 13x17, 14x17, 15x1
+	Crit rolls: 13x7, 14x16, 15x15, 16x1
+Horn Attack 22-27	(crit: 23-28)
+	Normal rolls: 22x1, 23x9, 24x10, 25x9, 26x9, 27x1
+	Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+Poison Sting 4-5	(crit: 5-6)
+	Normal rolls: 4x38, 5x1
+	Crit rolls: 5x38, 6x1
+	(Overall 8-hit Kill%: 6.9549%)
+
+Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17
+Leech Life 6-8	(crit: 10-12)
+	Normal rolls: 6x7, 7x31, 8x1
+	Crit rolls: 10x17, 11x21, 12x1
+	(Overall 5-hit Kill%: 8.0862%)
+	(Overall 6-hit Kill%: 86.2640%)
+Supersonic
+

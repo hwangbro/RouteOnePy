@@ -1,0 +1,610 @@
+
+RIVAL1 (0x3a1e7: L5 Bulbasaur) Prize 175
+LVL 5 EXP NEEDED: 44/44
+L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
+Squirtle (19/10/12/10/10)
+Tackle 5-6	(crit: 5-6)
+	Normal rolls: 5x38, 6x1
+	Crit rolls: 5x38, 6x1
+Tail Whip
+
+Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+Tackle 3-4	(crit: 4-5)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 4x38, 5x1
+	(Overall 6-hit Kill%: 50.0921%)
+Growl
+
+Variation good_att:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
+	Squirtle (20/11/13/10/11)
+	Tackle 5-7	(crit: 5-6)
+		Normal rolls: 5x2, 6x36, 7x1
+		Crit rolls: 5x38, 6x1
+	Tail Whip
+
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Tackle 3-4	(crit: 4-5)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 4x38, 5x1
+		(Overall 6-hit Kill%: 14.0587%)
+	Growl
+
+Variation bad_att:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
+	Squirtle (19/9/11/9/10)
+	Tackle 5-6	(crit: 4-5)
+		Normal rolls: 5x38, 6x1
+		Crit rolls: 4x38, 5x1
+		(Overall 4-hit Kill%: 73.5265%)
+	Tail Whip
+
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Tackle 3-4	(crit: 4-5)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 4x38, 5x1
+		(Overall 6-hit Kill%: 50.0921%)
+	Growl
+
+Variation growl_good_att:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
+	Squirtle (20/11/13/10/11) +[-1/0/0/0] -> (20/7/13/10/11
+	Tackle 4-5	(crit: 5-6)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x38, 6x1
+	Tail Whip
+
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Tackle 3-4	(crit: 4-5)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 4x38, 5x1
+		(Overall 6-hit Kill%: 14.0587%)
+	Growl
+
+Variation growl_bad_att:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
+	Squirtle (19/9/11/9/10) +[-1/0/0/0] -> (19/5/11/9/10
+	Tackle 3-4	(crit: 4-5)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 4x38, 5x1
+		(Overall 6-hit Kill%: 13.2616%)
+	Tail Whip
+
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Tackle 3-4	(crit: 4-5)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 4x38, 5x1
+		(Overall 6-hit Kill%: 50.0921%)
+	Growl
+
+
+L3 Pidgey
+LVL 6 EXP NEEDED: 34/57
+L6 Squirtle vs L3 Pidgey          >>> EXP GIVEN: 23
+Squirtle (21/11/13/11/12)
+Tackle 5-6	(crit: 6-8)
+	Normal rolls: 5x38, 6x1
+	Crit rolls: 6x7, 7x31, 8x1
+Tail Whip
+
+Pidgey (15/8/7/8/7)
+Gust 3-4	(crit: 3-4)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 3x38, 4x1
+
+Variation god_pidgey:
+
+	LVL 6 EXP NEEDED: 34/57
+	L6 Squirtle vs L3 Pidgey          >>> EXP GIVEN: 23
+	Squirtle (21/11/13/11/12)
+	Tackle 4-5	(crit: 5-7)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 3-hit Kill%: 1.7720%)
+	Tail Whip
+
+	Pidgey (16/8/8/9/8)
+	Gust 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+
+
+L3 Rattata
+LVL 6 EXP NEEDED: 11/57
+L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+Squirtle (21/11/13/11/12)
+Tackle 5-6	(crit: 6-8)
+	Normal rolls: 5x38, 6x1
+	Crit rolls: 6x7, 7x31, 8x1
+Tail Whip
+
+Rattata (15/8/7/9/6)
+Tackle 3-4	(crit: 3-4)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 3x38, 4x1
+Tail Whip
+
+Variation good_att_bad_rat:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (23/12/14/12/12)
+	Tackle 5-6	(crit: 7-9)
+		Normal rolls: 5x38, 6x1
+		Crit rolls: 7x10, 8x28, 9x1
+		(Overall 2-hit Kill%: 1.3363%)
+	Tail Whip
+
+	Rattata (14/8/7/9/6)
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+		(Overall 7-hit Kill%: 1.2671%)
+	Tail Whip
+
+Variation good_att_bad_rat_tw:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (23/12/14/12/12)
+	Tackle 8-10	(crit: 7-9)
+		Normal rolls: 8x13, 9x25, 10x1
+		Crit rolls: 7x10, 8x28, 9x1
+	Tail Whip
+
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+		(Overall 7-hit Kill%: 1.2671%)
+	Tail Whip
+
+Variation good_att_good_rat:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (23/12/14/12/12)
+	Tackle 5-6	(crit: 6-8)
+		Normal rolls: 5x38, 6x1
+		Crit rolls: 6x7, 7x31, 8x1
+	Tail Whip
+
+	Rattata (15/9/8/10/7)
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+		(Overall 7-hit Kill%: 1.2671%)
+	Tail Whip
+
+Variation good_att_good_rat_tw:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (23/12/14/12/12)
+	Tackle 6-8	(crit: 6-8)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 6x7, 7x31, 8x1
+		(Overall 2-hit Kill%: 4.1420%)
+	Tail Whip
+
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+		(Overall 7-hit Kill%: 1.2671%)
+	Tail Whip
+
+Variation bad_att_bad_rat:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (21/10/12/10/11)
+	Tackle 5-6	(crit: 6-8)
+		Normal rolls: 5x38, 6x1
+		Crit rolls: 6x7, 7x31, 8x1
+	Tail Whip
+
+	Rattata (14/8/7/9/6)
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation bad_att_bad_rat_tw:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (21/10/12/10/11)
+	Tackle 7-9	(crit: 6-8)
+		Normal rolls: 7x10, 8x28, 9x1
+		Crit rolls: 6x7, 7x31, 8x1
+		(Overall 2-hit Kill%: 99.0932%)
+	Tail Whip
+
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation bad_att_good_rat:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (21/10/12/10/11)
+	Tackle 4-5	(crit: 5-7)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 3-hit Kill%: 3.4064%)
+	Tail Whip
+
+	Rattata (15/9/8/10/7)
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 2.3058%)
+		(Overall 6-hit Kill%: 25.8913%)
+	Tail Whip
+
+Variation bad_att_good_rat_tw:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (21/10/12/10/11)
+	Tackle 5-7	(crit: 5-7)
+		Normal rolls: 5x2, 6x36, 7x1
+		Crit rolls: 5x2, 6x36, 7x1
+	Tail Whip
+
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 2.3058%)
+		(Overall 6-hit Kill%: 25.8913%)
+	Tail Whip
+
+
+BUG CATCHER (0x39dd7: L9 Weedle) Prize 90
+LVL 6 EXP NEEDED: 11/57
+L6 Squirtle vs L9 Weedle          >>> EXP GIVEN: 99
+Squirtle (21/11/13/11/12)
+Tackle 6-8	(crit: 5-6)
+	Normal rolls: 6x7, 7x31, 8x1
+	Crit rolls: 5x38, 6x1
+	(Overall 4-hit Kill%: 62.5395%)
+	(Overall 5-hit Kill%: 99.9963%)
+Tail Whip
+
+Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+Poison Sting 3-4	(crit: 5-6)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 5x38, 6x1
+	(Overall 6-hit Kill%: 16.0439%)
+String Shot
+
+Variation good_att:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L9 Weedle          >>> EXP GIVEN: 99
+	Squirtle (23/12/14/12/12)
+	Tackle 6-8	(crit: 5-6)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 5x38, 6x1
+		(Overall 4-hit Kill%: 62.5395%)
+		(Overall 5-hit Kill%: 99.9963%)
+	Tail Whip
+
+	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+	Poison Sting 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 6-hit Kill%: 2.8643%)
+		(Overall 7-hit Kill%: 51.9088%)
+	String Shot
+
+Variation bad_att_2:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L9 Weedle          >>> EXP GIVEN: 99
+	Squirtle (21/10/12/10/11)
+	Tackle 5-7	(crit: 4-5)
+		Normal rolls: 5x2, 6x36, 7x1
+		Crit rolls: 4x38, 5x1
+		(Overall 5-hit Kill%: 94.4707%)
+		(Overall 6-hit Kill%: 99.9981%)
+	Tail Whip
+
+	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+	Poison Sting 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 6-hit Kill%: 16.0439%)
+	String Shot
+
+Variation bad_att_3:
+
+	LVL 6 EXP NEEDED: 11/57
+	L6 Squirtle vs L9 Weedle          >>> EXP GIVEN: 99
+	Squirtle (21/10/12/10/11)
+	Tackle 7-9	(crit: 4-5)
+		Normal rolls: 7x10, 8x28, 9x1
+		Crit rolls: 4x38, 5x1
+		(Overall 4-hit Kill%: 92.4608%)
+		(Overall 5-hit Kill%: 99.9506%)
+	Tail Whip
+
+	Weedle (27/12/11/15/10) +[0/-3/0/0] -> (27/12/4/15/10
+	Poison Sting 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 6-hit Kill%: 16.0439%)
+	String Shot
+
+
+BROCK (0x3a3b5: L12 Geodude, L14 Onix) Prize 1386
+LVL 8 EXP NEEDED: 95/105
+L8 Squirtle vs L12 Geodude          >>> EXP GIVEN: 220
+Squirtle (25/14/16/13/14)
+Tackle 1-1	(crit: 1-2)
+	Normal rolls: 1x39
+	Crit rolls: 1x38, 2x1
+Tail Whip
+Bubble 20-24	(crit: 23-28)
+	Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+	Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+Geodude (33/26/30/11/14)
+Tackle 6-8	(crit: 11-14)
+	Normal rolls: 6x7, 7x31, 8x1
+	Crit rolls: 11x2, 12x18, 13x18, 14x1
+	(Overall 3-hit Kill%: 10.9298%)
+	(Overall 4-hit Kill%: 99.9115%)
+Defense Curl
+
+Variation good_defense_0:
+
+	LVL 8 EXP NEEDED: 95/105
+	L8 Squirtle vs L12 Geodude          >>> EXP GIVEN: 220
+	Squirtle (27/15/17/14/15)
+	Tackle 1-1	(crit: 1-2)
+		Normal rolls: 1x39
+		Crit rolls: 1x38, 2x1
+	Tail Whip
+	Bubble 20-24	(crit: 23-28)
+		Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+	Geodude (33/26/30/11/14)
+	Tackle 6-8	(crit: 11-13)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 11x19, 12x19, 13x1
+		(Overall 4-hit Kill%: 87.8799%)
+	Defense Curl
+
+Variation bad_defense_0:
+
+	LVL 8 EXP NEEDED: 95/105
+	L8 Squirtle vs L12 Geodude          >>> EXP GIVEN: 220
+	Squirtle (25/12/15/12/13)
+	Tackle 1-1	(crit: 1-2)
+		Normal rolls: 1x39
+		Crit rolls: 1x38, 2x1
+	Tail Whip
+	Bubble 13-16	(crit: 20-24)
+		Normal rolls: 13x7, 14x16, 15x15, 16x1
+		Crit rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		(Overall 2-hit Kill%: 15.7333%)
+
+	Geodude (33/26/30/11/14)
+	Tackle 7-9	(crit: 12-15)
+		Normal rolls: 7x10, 8x28, 9x1
+		Crit rolls: 12x4, 13x17, 14x17, 15x1
+		(Overall 3-hit Kill%: 14.9572%)
+	Defense Curl
+
+LVL 9 EXP NEEDED: 127/141
+L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+Squirtle (27/15/18/14/15)
+Tackle 1-1	(crit: 1-1)
+	Normal rolls: 1x39
+	Crit rolls: 1x39
+Tail Whip
+Bubble 20-24	(crit: 23-28)
+	Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+	Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+Onix (36/20/52/26/15)
+Tackle 5-7	(crit: 10-12)
+	Normal rolls: 5x2, 6x36, 7x1
+	Crit rolls: 10x17, 11x21, 12x1
+	(Overall 3-hit Kill%: 4.0837%)
+	(Overall 4-hit Kill%: 44.3467%)
+	(Overall 5-hit Kill%: 99.9985%)
+Screech
+Bide
+
+Variation good_defense_2:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (29/16/19/15/16) +[0/-2/0/0] -> (29/16/9/15/16
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 20-24	(crit: 23-28)
+		Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+	Onix (36/20/52/26/15)
+	Tackle 10-12	(crit: 9-11)
+		Normal rolls: 10x17, 11x21, 12x1
+		Crit rolls: 9x15, 10x23, 11x1
+		(Overall 3-hit Kill%: 99.6064%)
+	Screech
+	Bide
+
+Variation good_defense_4:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (29/16/19/15/16) +[0/-4/0/0] -> (29/16/6/15/16
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 20-24	(crit: 23-28)
+		Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+	Onix (36/20/52/26/15)
+	Tackle 15-18	(crit: 9-11)
+		Normal rolls: 15x10, 16x14, 17x14, 18x1
+		Crit rolls: 9x15, 10x23, 11x1
+		(Overall 2-hit Kill%: 74.5410%)
+		(Overall 3-hit Kill%: 99.9186%)
+	Screech
+	Bide
+
+Variation good_defense_6:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (29/16/19/15/16) +[0/-6/0/0] -> (29/16/4/15/16
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 20-24	(crit: 23-28)
+		Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+	Onix (36/20/52/26/15)
+	Tackle 22-26	(crit: 9-11)
+		Normal rolls: 22x9, 23x10, 24x10, 25x9, 26x1
+		Crit rolls: 9x15, 10x23, 11x1
+		(Overall 2-hit Kill%: 98.1308%)
+		(Overall 3-hit Kill%: 99.9186%)
+	Screech
+	Bide
+
+Variation bad_defense_2:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (27/13/16/13/14) +[0/-2/0/0] -> (27/13/8/13/14
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 13-16	(crit: 23-28)
+		Normal rolls: 13x7, 14x16, 15x15, 16x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+		(Overall 2-hit Kill%: 15.7333%)
+
+	Onix (36/20/52/26/15)
+	Tackle 11-14	(crit: 11-13)
+		Normal rolls: 11x2, 12x18, 13x18, 14x1
+		Crit rolls: 11x19, 12x19, 13x1
+		(Overall 2-hit Kill%: 1.8284%)
+	Screech
+	Bide
+
+Variation bad_defense_4:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (27/13/16/13/14) +[0/-4/0/0] -> (27/13/5/13/14
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 13-16	(crit: 23-28)
+		Normal rolls: 13x7, 14x16, 15x15, 16x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+		(Overall 2-hit Kill%: 15.7333%)
+
+	Onix (36/20/52/26/15)
+	Tackle 17-21	(crit: 11-13)
+		Normal rolls: 17x2, 18x12, 19x12, 20x12, 21x1
+		Crit rolls: 11x19, 12x19, 13x1
+		(Overall 2-hit Kill%: 98.1308%)
+	Screech
+	Bide
+
+Variation bad_defense_6:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (27/13/16/13/14) +[0/-6/0/0] -> (27/13/4/13/14
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 13-16	(crit: 23-28)
+		Normal rolls: 13x7, 14x16, 15x15, 16x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+		(Overall 2-hit Kill%: 15.7333%)
+
+	Onix (36/20/52/26/15)
+	Tackle 22-26	(crit: 11-13)
+		Normal rolls: 22x9, 23x10, 24x10, 25x9, 26x1
+		Crit rolls: 11x19, 12x19, 13x1
+		(Overall 2-hit Kill%: 98.1308%)
+	Screech
+	Bide
+
+Variation good_defense_0:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (29/16/19/15/16)
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 20-24	(crit: 23-28)
+		Normal rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+
+	Onix (36/20/52/26/15)
+	Tackle 5-7	(crit: 9-11)
+		Normal rolls: 5x2, 6x36, 7x1
+		Crit rolls: 9x15, 10x23, 11x1
+		(Overall 4-hit Kill%: 11.4745%)
+		(Overall 5-hit Kill%: 98.9485%)
+	Screech
+	Bide
+
+Variation bad_defense_0:
+
+	LVL 9 EXP NEEDED: 127/141
+	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
+	Squirtle (27/13/16/13/14)
+	Tackle 1-1	(crit: 1-1)
+		Normal rolls: 1x39
+		Crit rolls: 1x39
+	Tail Whip
+	Bubble 13-16	(crit: 23-28)
+		Normal rolls: 13x7, 14x16, 15x15, 16x1
+		Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
+		(Overall 2-hit Kill%: 15.7333%)
+
+	Onix (36/20/52/26/15)
+	Tackle 6-8	(crit: 11-13)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 11x19, 12x19, 13x1
+		(Overall 3-hit Kill%: 6.2580%)
+		(Overall 4-hit Kill%: 92.1053%)
+	Screech
+	Bide
+

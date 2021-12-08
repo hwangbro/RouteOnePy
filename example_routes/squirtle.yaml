@@ -1,0 +1,132 @@
+config:
+    game: rb
+    species: squirtle
+    level: 5
+    ivs: 0x8888
+    default_verbosity: 2
+
+route:
+    - fight:
+        id: 0x3A1E7 # rival
+        def_mod:
+            stages: 0/-1/0/0
+        variations:
+            all:
+                good_att:
+                    ivs: 0xFFFF
+                    def_mod:
+                        stages: 0/-1/0/0
+                bad_att:
+                    ivs: 0x0000
+                    def_mod:
+                        stages: 0/-1/0/0
+                growl_good_att:
+                    ivs: 0xFFEF
+                    att_mod:
+                        stages: -1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                growl_bad_att:
+                    ivs: 0x0000
+                    att_mod:
+                        stages: -1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+    - wild:
+        id: L3 PIDGEY
+        wild_ivs: 0x0000
+        variations:
+            all:
+                god_pidgey:
+                    wild_ivs: 0xffff
+    - wild:
+        id: L3 RATTATA
+        wild_ivs: 0x0000
+        split: 0
+        variations:
+            all:
+                good_att_bad_rat:
+                    ivs: 0xffff
+                    wild_ivs: 0x0000
+                good_att_bad_rat_tw:
+                    ivs: 0xffff
+                    wild_ivs: 0x0000
+                    def_mod:
+                        stages: 0/-1/0/0
+                good_att_good_rat:
+                    ivs: 0xffff
+                    wild_ivs: 0xffff
+                good_att_good_rat_tw:
+                    ivs: 0xffff
+                    wild_ivs: 0xffff
+                    def_mod:
+                        stages: 0/-1/0/0
+                bad_att_bad_rat:
+                    ivs: 0x0000
+                    wild_ivs: 0x0000
+                bad_att_bad_rat_tw:
+                    ivs: 0x0000
+                    wild_ivs: 0x0000
+                    def_mod:
+                        stages: 0/-1/0/0
+                bad_att_good_rat:
+                    ivs: 0x0000
+                    wild_ivs: 0xffff
+                bad_att_good_rat_tw:
+                    ivs: 0x0000
+                    wild_ivs: 0xffff
+                    def_mod:
+                        stages: 0/-1/0/0
+    - fight:
+        id: WEEDLE GUY
+        def_mod:
+            stages: 0/-2/0/0
+        variations:
+            all:
+                good_att:
+                    ivs: 0xffff
+                    def_mod:
+                        stages: 0/-2/0/0
+                bad_att_2:
+                    ivs: 0x0000
+                    def_mod:
+                        stages: 0/-2/0/0
+                bad_att_3:
+                    ivs: 0x0000
+                    def_mod:
+                        stages: 0/-3/0/0
+    - learn move: bubble
+    - fight:
+        id: BROCK
+        split: 2
+        variations:
+            all:
+                good_defense_0:
+                    ivs: 0xffff
+                bad_defense_0:
+                    ivs: 0x0000
+            2:
+                good_defense_2:
+                    ivs: 0xffff
+                    att_mod:
+                        stages: 0/-2/0/0
+                good_defense_4:
+                    ivs: 0xffff
+                    att_mod:
+                        stages: 0/-4/0/0
+                good_defense_6:
+                    ivs: 0xffff
+                    att_mod:
+                        stages: 0/-6/0/0
+                bad_defense_2:
+                    ivs: 0x0000
+                    att_mod:
+                        stages: 0/-2/0/0
+                bad_defense_4:
+                    ivs: 0x0000
+                    att_mod:
+                        stages: 0/-4/0/0
+                bad_defense_6:
+                    ivs: 0x0000
+                    att_mod:
+                        stages: 0/-6/0/0

@@ -1,0 +1,47 @@
+
+YOUNGSTER (0x39d99: L11 Rattata, L11 Ekans) Prize 165
+LVL 10 EXP NEEDED: 40/182
+L10 NidoranM vs L11 Rattata          >>> EXP GIVEN: 133
+NidoranM (32/21/16/18/16)  +<1/0/0/0> -> (32/23/16/18/16
+Leer
+Tackle 10-12	(crit: 9-11)
+	Normal rolls: 10x17, 11x21, 12x1
+	Crit rolls: 9x15, 10x23, 11x1
+	(Overall 3-hit Kill%: 99.8039%)
+Horn Attack 17-21	(crit: 16-19)
+	Normal rolls: 17x2, 18x12, 19x12, 20x12, 21x1
+	Crit rolls: 16x12, 17x13, 18x13, 19x1
+
+Rattata (29/19/14/22/12) +[0/-1/0/0] -> (29/19/9/22/12
+Tackle 7-9	(crit: 12-15)
+	Normal rolls: 7x10, 8x28, 9x1
+	Crit rolls: 12x4, 13x17, 14x17, 15x1
+	(Overall 3-hit Kill%: 5.4016%)
+	(Overall 4-hit Kill%: 64.4453%)
+Tail Whip
+Quick Attack 8-10	(crit: 13-16)
+	Normal rolls: 8x13, 9x25, 10x1
+	Crit rolls: 13x7, 14x16, 15x15, 16x1
+	(Overall 3-hit Kill%: 22.9141%)
+
+LVL 11 EXP NEEDED: 138/231
+L11 NidoranM vs L11 Ekans          >>> EXP GIVEN: 145
+NidoranM (34/23/17/19/17)
+Leer
+Tackle 9-11	(crit: 9-11)
+	Normal rolls: 9x15, 10x23, 11x1
+	Crit rolls: 9x15, 10x23, 11x1
+	(Overall 3-hit Kill%: 26.8700%)
+Horn Attack 16-19	(crit: 16-19)
+	Normal rolls: 16x12, 17x13, 18x13, 19x1
+	Crit rolls: 16x12, 17x13, 18x13, 19x1
+
+Ekans (30/20/16/18/15) +[0/-1/0/0] -> (30/20/10/18/15
+Wrap 3-4	(crit: 4-5)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 4x38, 5x1
+Leer
+Poison Sting 2-3	(crit: 2-3)
+	Normal rolls: 2x38, 3x1
+	Crit rolls: 2x2, 3x37
+

@@ -1,0 +1,157 @@
+
+L3 Rattata
+LVL 5 EXP NEEDED: 44/44
+L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+Squirtle (20/11/13/10/11)
+Tackle 5-6	(crit: 6-8)
+	Normal rolls: 5x38, 6x1
+	Crit rolls: 6x7, 7x31, 8x1
+Tail Whip
+
+Rattata (14/8/7/9/6)
+Tackle 3-4	(crit: 3-4)
+	Normal rolls: 3x38, 4x1
+	Crit rolls: 3x38, 4x1
+Tail Whip
+
+Variation good_att_bad_rat:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (20/11/13/10/11)
+	Tackle 5-6	(crit: 6-8)
+		Normal rolls: 5x38, 6x1
+		Crit rolls: 6x7, 7x31, 8x1
+	Tail Whip
+
+	Rattata (14/8/7/9/6)
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation good_att_bad_rat_tw:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (20/11/13/10/11)
+	Tackle 7-9	(crit: 6-8)
+		Normal rolls: 7x10, 8x28, 9x1
+		Crit rolls: 6x7, 7x31, 8x1
+		(Overall 2-hit Kill%: 99.0932%)
+	Tail Whip
+
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation good_att_good_rat:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (20/11/13/10/11)
+	Tackle 4-5	(crit: 5-7)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 3-hit Kill%: 3.4064%)
+	Tail Whip
+
+	Rattata (15/9/8/10/7)
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation good_att_good_rat_tw:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (20/11/13/10/11)
+	Tackle 6-8	(crit: 5-7)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 2-hit Kill%: 3.5002%)
+	Tail Whip
+
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Tackle 3-4	(crit: 3-4)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 3x38, 4x1
+	Tail Whip
+
+Variation bad_att_bad_rat:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (19/9/11/9/10)
+	Tackle 4-5	(crit: 5-7)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 3-hit Kill%: 21.7862%)
+	Tail Whip
+
+	Rattata (14/8/7/9/6)
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 15.0177%)
+		(Overall 6-hit Kill%: 65.5325%)
+	Tail Whip
+
+Variation bad_att_bad_rat_tw:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (19/9/11/9/10)
+	Tackle 6-8	(crit: 5-7)
+		Normal rolls: 6x7, 7x31, 8x1
+		Crit rolls: 5x2, 6x36, 7x1
+		(Overall 2-hit Kill%: 58.1812%)
+	Tail Whip
+
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 15.0177%)
+		(Overall 6-hit Kill%: 65.5325%)
+	Tail Whip
+
+Variation bad_att_good_rat:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (19/9/11/9/10)
+	Tackle 4-5	(crit: 5-6)
+		Normal rolls: 4x38, 5x1
+		Crit rolls: 5x38, 6x1
+	Tail Whip
+
+	Rattata (15/9/8/10/7)
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 15.0177%)
+		(Overall 6-hit Kill%: 65.5325%)
+	Tail Whip
+
+Variation bad_att_good_rat_tw:
+
+	LVL 5 EXP NEEDED: 44/44
+	L5 Squirtle vs L3 Rattata          >>> EXP GIVEN: 24
+	Squirtle (19/9/11/9/10)
+	Tackle 5-7	(crit: 5-6)
+		Normal rolls: 5x2, 6x36, 7x1
+		Crit rolls: 5x38, 6x1
+	Tail Whip
+
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Tackle 3-4	(crit: 5-6)
+		Normal rolls: 3x38, 4x1
+		Crit rolls: 5x38, 6x1
+		(Overall 5-hit Kill%: 15.0177%)
+		(Overall 6-hit Kill%: 65.5325%)
+	Tail Whip
+

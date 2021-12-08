@@ -1,0 +1,247 @@
+config:
+    game: rb
+    species: nidoranm
+    level: 4
+    ivs: 0xFFEF
+    default_verbosity: 1
+    starting_money: 265 # 175 rival + 90 weedle guy
+    output: 'red_output.txt'
+
+route:
+    - fight:
+        id: BROCK
+        split: 2
+        verbose: 2
+    - learn move: horn attack
+    - fight:
+        id: BC1
+        def_mod:
+            stages: 0/-1/0/0
+        verbose: 2
+        range_check:
+            1:
+                2_bbs:
+                    turns: 2
+                    moves: Horn Attack
+                    att_mod:
+                        bbs: 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                1_bb:
+                    turns: 2
+                    moves: Horn Attack
+                    att_mod:
+                        bbs: 0/0/0/0, 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+            2:
+                2_bbs:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    att_mod:
+                        bbs: 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                1_bb:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    att_mod:
+                        bbs: 0/0/0/0, 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                0_bb:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    def_mod:
+                        stages: 0/-1/0/0
+            3:
+                2_bbs:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    att_mod:
+                        bbs: 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                1_bb:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    att_mod:
+                        bbs: 0/0/0/0, 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                0_bb:
+                    turns: 2
+                    moves: Horn Attack, Tackle
+                    def_mod:
+                        stages: 0/-1/0/0
+    - fight:
+        id: SHORTS GUY
+        att_mod:
+            1:
+                bbs: 1/0/0/0
+        def_mod:
+            stages: 0/-1/0/0
+        verbose: 2
+    - fight:
+        id:
+            - BC2
+            - BC3
+    - learn move: poison sting
+    - fight:
+        id: MOON ROCKET
+        def_mod:
+            1:
+                stages: 0/0/0/0
+            2:
+                stages: 0/-1/0/0
+        verbose: 2
+        variations:
+            2:
+                -1_def:
+                    att_mod:
+                        stages: 0/-1/0/0
+                        bbs: 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+        range_check:
+            1:
+                1_bb:
+                    turns: 2
+                    moves: Horn Attack
+                    att_mod:
+                        bbs: 0/0/0/0, 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+                2_bb:
+                    turns: 2
+                    moves: Horn Attack
+                    att_mod:
+                        bbs: 1/0/0/0
+                    def_mod:
+                        stages: 0/-1/0/0
+            2:
+                3_ha:
+                    turns: 3
+                    moves: Horn Attack
+                2_ha_bb:
+                    turns: 2
+                    moves: Horn Attack
+                    att_mod:
+                        bbs: 1/0/0/0
+    - use item: RARE CANDY
+    - evolve: nidorino
+    - evolve: nidoking
+    - learn move:
+        - mega punch
+        - water gun
+    - unlearn move:
+        - tackle
+        - leer
+    - fight:
+        id:
+            - NERD
+            - BRIDGE RIVAL
+            - BRIDGE 1
+            - BRIDGE 2
+            - BRIDGE 3
+            - BRIDGE 4
+            - BRIDGE 5
+            - BRIDGE ROCKET
+            - ONIX HIKER
+            - 0x39E2B
+            - BOTTOM HIKER
+            - 0x39E2F
+    - learn move: thrash
+    - unlearn move: water gun
+    - use item: RARE CANDY
+    - fight:
+        id:
+            - DIG ROCKET
+            - GOLDEEN
+            - MISTY
+            - 0x39EA4
+            - 0x39E2F
+            - BOAT RIVAL
+        verbose: 2
+    - learn move: bubblebeam
+    - unlearn move: poison sting
+    - fight:
+        id: SURGE
+    - learn move: thunderbolt
+    - unlearn move: horn attack
+    - fight:
+        id:
+            - 4 TURN THRASH
+            - VENONAT
+            - TUNNEL 1
+            - TUNNEL 2
+            - ODDISH GIRL
+            - TUNNEL HIKER
+            - 0x39EE8
+            - GAMBLER
+            - TOWER RIVAL
+            - CHANNELER 1
+            - CHANNELER 2
+            - CHANNELER 3
+    - learn move: horn drill
+    - unlearn move: mega punch
+    - fight:
+        id:
+            - TOWER ROCKET 1
+            - TOWER ROCKET 2
+            - TOWER ROCKET 3
+            - ARBOK
+    - fight:
+        id: SILPH RIVAL
+        att_mod:
+            stages: 0/0/1/1
+        verbose: 2
+    - fight:
+        id:
+            - SILPH ROCKET
+            - SILPH GIO
+        verbose: 2
+    - learn move: earthquake
+    - unlearn move: thrash
+    - fight:
+        id:
+            - JUGGLER 1
+            - JUGGLER 2
+            - KOGA
+    - use item:
+        - RARE CANDY
+        - RARE CANDY
+        - RARE CANDY
+    - learn move: blizzard
+    - unlearn move: bubblebeam
+    - fight:
+        id:
+            - EGGS
+            - ERIKA
+            - BLAINE
+            - SABRINA
+            - RHYHORN
+            - BLACK BELT
+            - GIO 2
+    - fight:
+        id: VIRIDIAN RIVAL
+        att_mod:
+            stages: 0/0/1/0
+            bbs: 0/0/0/1
+        verbose: 2
+    - fight:
+        id:
+            - LORELEI
+            - BRUNO
+    - use item: RARE CANDY
+    - fight:
+        id:
+            - AGATHA
+            - LANCE
+        verbose: 2
+    - fight:
+        id: CHAMP
+        att_mod:
+            stages: 0/0/0/1
+            bbs: 1/1/1/0
+        verbose: 2
