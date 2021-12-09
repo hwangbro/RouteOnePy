@@ -19,6 +19,8 @@ class Pokemon:
         # Allow initialization of Pokemon with species names
         if isinstance(self.species, str):
             self.species = data.get_species(self.species)
+            if not self.species:
+                raise ValueError('Could not find valid species')
 
         # If no moveset is supplied, grab the default learnset
         # Slightly expensive operation to grab learnset data every time

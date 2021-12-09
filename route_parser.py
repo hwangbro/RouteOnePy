@@ -4,7 +4,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from pokemon import Pokemon
-from ivs import ivs_from_hex
+from ivs import ivs_from_hex, IVs
 import stat_modifier
 from battle import Battle
 from fight_variation import FightVariation
@@ -16,12 +16,20 @@ class RouteFile:
             self.route = yaml.safe_load(f)
 
         base_name = Path(route_file).stem
-        self.actions = self.route['route']
-        self.config = self.route['config']
-        self.game = self.config['game']
+        self.actions = self.route.get('route')
+        if not self.actions:
+            raise RouteException(f'Must have a valid "route" section')
+        self.config = self.route.get('config')
+        if not self.config:
+            raise RouteException(f'Must have a valid "config" section')
+        self.game = self.config.get('game', 'rb')
         self.output = self.config.get('output', f'{base_name}_output.txt')
-        self.ivs = ivs_from_hex(self.config['ivs'])
-        self.pokemon = Pokemon(self.config['species'], self.config['level'], self.ivs)
+        self.ivs = ivs_from_hex(self.config.get('ivs', 0x9888))
+        species = self.config.get('species')
+        if not species:
+            raise RouteException('Must have a valid species name')
+        level = self.config.get('level', 5)
+        self.pokemon = Pokemon(species, level, self.ivs)
         self.verbosity = self.config.get('default_verbosity', 0)
         self.money = self.config.get('starting_money', 0)
 
@@ -32,7 +40,8 @@ class RouteFile:
         self.species = data.get_all_species()
         self.moves = data.get_moves()
 
-    def parse(self):
+    def parse(self) -> None:
+        '''Parses the log file and stores result in self.log'''
         self.log = ''
         for action in self.actions:
             if details := action.get('fight'):
@@ -54,11 +63,12 @@ class RouteFile:
             elif action := action.get('print money'):
                 self.log += f'\nCurrent money: {self.money}\n'
 
-    def add_badge(self, badge):
+    def add_badge(self, badge: str) -> None:
+        '''Processes the get badge action'''
         badge = badge.lower()
         if badge in {'boulderbadge', 'boulder', 'attack', 'atk', 'att'}:
             self.pokemon.att_badge = True
-        elif badge in {'souldbadge', 'soul', 'defense', 'def'}:
+        elif badge in {'soulbadge', 'soul', 'defense', 'def'}:
             self.pokemon.def_badge = True
         elif badge in {'thunderbadge', 'thunder', 'speed', 'spd'}:
             self.pokemon.spd_badge = True
@@ -67,7 +77,12 @@ class RouteFile:
         else:
             raise BadItemIdentifierException(f'Could not parse badge name ({badge})')
 
-    def parse_fight(self, details, wild=False):
+    def parse_fight(self, details: dict, wild: bool=False) -> None:
+        '''Process the fight actions
+
+        Parses out common fight details like exp split, verbosity, and stat
+        modifiers before determining what type of fight it is.
+        '''
         participants = details.get('split', 1)
         verbosity = details.get('verbose', self.verbosity)
 
@@ -82,7 +97,14 @@ class RouteFile:
         else:
             self.parse_wild_fight(details, participants, att_mod, def_mod, verbosity)
 
-    def parse_trainer(self, fight_details, participants, att_mod, def_mod, verbosity):
+    def parse_trainer(self,
+                      fight_details: dict,
+                      participants: int,
+                      att_mod: stat_modifier.StatModifier,
+                      def_mod: stat_modifier.StatModifier,
+                      verbosity: int
+        ) -> None:
+        '''Parses trainer fights'''
         trainers = []
         if t := fight_details.get('id', ''):
             if not isinstance(t, list):
@@ -126,7 +148,14 @@ class RouteFile:
             elif trainer_name == 'BLAINE':
                 self.pokemon.spc_badge = True
 
-    def parse_wild_fight(self, fight_details, participants, att_mod, def_mod, verbosity):
+    def parse_wild_fight(self,
+                         fight_details: dict,
+                         participants: int,
+                         att_mod: stat_modifier.StatModifier,
+                         def_mod: stat_modifier.StatModifier,
+                         verbosity: int
+        ) -> None:
+        '''Parses wild fights'''
         ivs = fight_details.get('ivs', 0x9888)
         pokes = []
         if t := fight_details.get('id', ''):
@@ -158,7 +187,13 @@ class RouteFile:
             self.log += battle.battle()
 
     def parse_range_checks(self, details: dict) -> dict:
-        # keys = pokemon party index, value = range check
+        '''Parses range check dictionaries
+
+        Returns dictionary, keys are party index, value represents a range
+        check. Each value is a dictionary, with those keys being the range
+        check names, the values being the corresponding stat modifier and
+        move data
+        '''
         ranges = {}
 
         # store turns, moves, att_mods, def_mods, lists or singles
@@ -184,30 +219,38 @@ class RouteFile:
 
         return ranges
 
-    def parse_item(self, item_name):
+    def parse_item(self, item_name: str) -> None:
+        '''Parses using an item'''
         if not isinstance(item_name, list):
             item_name = [item_name]
 
         for item in item_name:
-            if item == 'RARE CANDY':
+            if item.upper() == 'RARE CANDY':
                 self.pokemon.use_candy()
-            elif item in {'PROTEIN', 'IRON', 'CARBOS', 'CALCIUM', 'HP UP'}:
+            elif item.upper() in {'PROTEIN', 'IRON', 'CARBOS', 'CALCIUM', 'HP UP'}:
                 self.pokemon.use_vitamin(item)
             else:
                 raise BadItemIdentifierException(f'Could not identify item {item}')
 
-    def parse_learn_move(self, move_name, func):
+    def parse_learn_move(self, move_name, func) -> None:
+        '''Performs add/delete move functions'''
         if not isinstance(move_name, list):
             move_name = [move_name]
         for move in move_name:
             m = self.moves[move.upper()]
             func(m)
 
-    def write_file(self):
+    def write_file(self) -> None:
+        '''Saves log to output file'''
         with open(self.output, 'w') as f:
             f.write(self.log)
 
-def parse_variations(details, poke_ivs):
+def parse_variations(details: dict, poke_ivs: IVs) -> dict:
+    '''Parses the variation dict
+
+    For each fight variation, it returns a FightVariation class with the
+    correct ivs and stat modifiers
+    '''
     variations = {}
 
     for k,v in details.items():
