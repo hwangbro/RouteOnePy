@@ -6,7 +6,7 @@ A lot of the core logic is taken directly from the source repository, but some a
 
 ## Usage
 
-To start using this project, all you need is the pre-compiled executable (found in releases) and a route .yaml file. Click and drag any properly formatted .yaml route file and an output file should appear.
+To start using this project, all you need is the pre-compiled executable (found in releases) and a route .yaml file. Click and drag any properly formatted .yaml route file onto `route_parser.exe` and an output file should appear.
 
 I would recommend looking at one of the example files found in [example_routes/](example_routes/) to start as a template.
 
