@@ -156,7 +156,7 @@ class RouteFile:
                          verbosity: int
         ) -> None:
         '''Parses wild fights'''
-        ivs = fight_details.get('ivs', 0x9888)
+        wild_ivs = ivs_from_hex(fight_details.get('wild_ivs', 0x9888))
         pokes = []
         if t := fight_details.get('id', ''):
             if not isinstance(t, list):
@@ -166,7 +166,7 @@ class RouteFile:
                     level = int(match.group(2))
                     species = match.group(3)
                     if spec := self.species.get(species.upper()):
-                        pokes.append(Pokemon(spec, level, ivs_from_hex(ivs), True, self.game))
+                        pokes.append(Pokemon(spec, level, wild_ivs, True, self.game))
                     else:
                         raise BadWildIdentifierException(f'Could not identify wild species: {spec}')
                 else:
