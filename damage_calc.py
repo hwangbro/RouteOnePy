@@ -167,7 +167,9 @@ def n_shot_with_mods(attacker: Pokemon,
         current_min += min(turn.min_nc, turn.min_c)
 
     # Not a range, return 0
-    if current_min >= defender._hp or current_max < defender._hp:
+    if current_min >= defender._hp:
+        return 100
+    if current_max < defender._hp:
         return 0
 
     # Generate all permutation of crits
