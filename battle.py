@@ -58,7 +58,7 @@ class SingleBattle:
             attacker, defender, a_mod, d_mod = self.defender, self.attacker, self.def_mod, self.att_mod
         x = f'{attacker.name} ({attacker.stats_str})'
         if a_mod.has_bbs or a_mod.has_mods:
-            x += f' {a_mod} -> ({a_mod.mod_stats_str(attacker)}'
+            x += f' {a_mod} -> ({a_mod.mod_stats_str(attacker)})'
         ret.append(f'{x}')
 
         for move in attacker.moveset:
@@ -188,8 +188,9 @@ class Battle:
     def parse_single_battle(self, variation: FightVariation, poke: Pokemon) -> SingleBattle:
         '''Recalculates stats and returns a SingleBattle struct'''
 
-        self.pokemon.ivs = variation.ivs
-        self.pokemon.calculate_stats()
+        if self.pokemon.ivs != variation.ivs:
+            self.pokemon.ivs = variation.ivs
+            self.pokemon.calculate_stats()
         poke.ivs = variation.enemy_ivs
         poke.calculate_stats()
         return SingleBattle(self.pokemon, poke, variation.att_mod, variation.def_mod)
