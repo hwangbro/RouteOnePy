@@ -46,7 +46,7 @@ Poison Sting 4-5	(crit: 5-6)
 	Crit rolls: 5x38, 6x1
 	(Overall 8-hit Kill%: 6.9549%)
 
-Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17
+Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17)
 Leech Life 6-8	(crit: 10-12)
 	Normal rolls: 6x7, 7x31, 8x1
 	Crit rolls: 10x17, 11x21, 12x1

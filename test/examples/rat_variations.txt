@@ -41,7 +41,7 @@ Variation good_att_bad_rat_tw:
 		(Overall 2-hit Kill%: 99.0932%)
 	Tail Whip
 
-	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6)
 	Tackle 3-4	(crit: 3-4)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 3x38, 4x1
@@ -75,7 +75,7 @@ Variation good_att_good_rat_tw:
 		(Overall 2-hit Kill%: 3.5002%)
 	Tail Whip
 
-	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7)
 	Tackle 3-4	(crit: 3-4)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 3x38, 4x1
@@ -111,7 +111,7 @@ Variation bad_att_bad_rat_tw:
 		(Overall 2-hit Kill%: 58.1812%)
 	Tail Whip
 
-	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6)
 	Tackle 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
@@ -147,7 +147,7 @@ Variation bad_att_good_rat_tw:
 		Crit rolls: 5x38, 6x1
 	Tail Whip
 
-	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7)
 	Tackle 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
