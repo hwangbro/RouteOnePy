@@ -185,8 +185,8 @@ class Pokemon:
         the variable directly
         '''
         stat = f'ev_{stat}'
-        stat = self.__dict__[stat]
-        if stat < 25600:
+        stat_val = self.__dict__[stat]
+        if stat_val < 25600:
             self.__dict__[stat] += 2560
             self.calculate_stats()
 
