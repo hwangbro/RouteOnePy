@@ -43,5 +43,5 @@ Wrap 3-4	(crit: 4-5)
 Leer
 Poison Sting 2-3	(crit: 2-3)
 	Normal rolls: 2x38, 3x1
-	Crit rolls: 2x2, 3x37
+	Crit rolls: 2x38, 3x1
 

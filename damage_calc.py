@@ -166,7 +166,7 @@ def n_shot_with_mods(attacker: Pokemon,
         current_max += max(turn.max_nc, turn.max_c)
         current_min += min(turn.min_nc, turn.min_c)
 
-    # Not a range, return 0
+    # Not a range, return 100 or 0
     if current_min >= defender._hp:
         return 100
     if current_max < defender._hp:
