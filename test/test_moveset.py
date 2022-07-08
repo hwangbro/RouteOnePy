@@ -54,5 +54,31 @@ class TestDefaultMoveset(unittest.TestCase):
         self.assertEqual(default_moveset[2].name, 'Sleep Powder')
         self.assertEqual(default_moveset[3].name, 'SolarBeam')
 
+    def test_moveset_duplicates(self):
+        pidgeotto = get_learnset(17)
+        default_moveset_l1 = get_default_moveset(pidgeotto, 1)
+        self.assertEqual(len(default_moveset_l1), 2)
+        self.assertEqual(default_moveset_l1[0].name, 'Gust')
+        self.assertEqual(default_moveset_l1[1].name, 'Sand-Attack')
+        default_moveset_l5 = get_default_moveset(pidgeotto, 5)
+        self.assertEqual(len(default_moveset_l5), 2)
+        self.assertEqual(default_moveset_l5[0].name, 'Gust')
+        self.assertEqual(default_moveset_l5[1].name, 'Sand-Attack')
+
+        victreebel = get_learnset(71)
+        default_moveset_l1 = get_default_moveset(victreebel, 1)
+        self.assertEqual(len(default_moveset_l1), 4)
+        self.assertEqual(default_moveset_l1[0].name, 'Sleep Powder')
+        self.assertEqual(default_moveset_l1[1].name, 'Stun Spore')
+        self.assertEqual(default_moveset_l1[2].name, 'Acid')
+        self.assertEqual(default_moveset_l1[3].name, 'Razor Leaf')
+        default_moveset_l18 = get_default_moveset(victreebel, 18)
+        self.assertEqual(len(default_moveset_l18), 4)
+        self.assertEqual(default_moveset_l18[0].name, 'Razor Leaf')
+        self.assertEqual(default_moveset_l18[1].name, 'Wrap')
+        self.assertEqual(default_moveset_l18[2].name, 'PoisonPowder')
+        self.assertEqual(default_moveset_l18[3].name, 'Sleep Powder')
+
+
 if __name__ == '__main__':
     unittest.main()
