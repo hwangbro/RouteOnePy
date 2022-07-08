@@ -28,7 +28,10 @@ class Moveset(list):
 
 def get_default_moveset(learnset: list, level: int) -> Moveset:
     '''Returns the 4 most recently learned moves for a pokemon of this level'''
-    moveset = [move.move for move in learnset if move.level <= level]
-    if len(moveset) > 4:
-        return Moveset(moveset[-4:])
+    moveset = []
+    for move in learnset:
+        if move.level <= level and move.move not in moveset:
+            if len(moveset) == 4:
+                moveset.pop(0)
+            moveset.append(move.move)
     return Moveset(moveset)
