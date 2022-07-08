@@ -70,7 +70,7 @@ def apply_effectiveness(damage: int, att_type: Type, def_type: Type, def_type2: 
     for e in effect_list:
         if e.att_type == att_type:
             if e.def_type in (def_type, def_type2):
-                damage *= e.effectiveness.value
+                damage = int(damage * e.effectiveness.value)
     return damage
 
 type_table = [
