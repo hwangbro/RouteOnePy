@@ -8,7 +8,7 @@ Tackle 5-6	(crit: 5-6)
 	Crit rolls: 5x38, 6x1
 Tail Whip
 
-Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12)
 Tackle 3-4	(crit: 4-5)
 	Normal rolls: 3x38, 4x1
 	Crit rolls: 4x38, 5x1
@@ -25,7 +25,7 @@ Variation good_att:
 		Crit rolls: 5x38, 6x1
 	Tail Whip
 
-	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12)
 	Tackle 3-4	(crit: 4-5)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 4x38, 5x1
@@ -43,7 +43,7 @@ Variation bad_att:
 		(Overall 4-hit Kill%: 73.5265%)
 	Tail Whip
 
-	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12)
 	Tackle 3-4	(crit: 4-5)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 4x38, 5x1
@@ -54,13 +54,13 @@ Variation growl_good_att:
 
 	LVL 5 EXP NEEDED: 44/44
 	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
-	Squirtle (20/11/13/10/11) +[-1/0/0/0] -> (20/7/13/10/11
+	Squirtle (20/11/13/10/11) +[-1/0/0/0] -> (20/7/13/10/11)
 	Tackle 4-5	(crit: 5-6)
 		Normal rolls: 4x38, 5x1
 		Crit rolls: 5x38, 6x1
 	Tail Whip
 
-	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12)
 	Tackle 3-4	(crit: 4-5)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 4x38, 5x1
@@ -71,14 +71,14 @@ Variation growl_bad_att:
 
 	LVL 5 EXP NEEDED: 44/44
 	L5 Squirtle vs L5 Bulbasaur          >>> EXP GIVEN: 67
-	Squirtle (19/9/11/9/10) +[-1/0/0/0] -> (19/5/11/9/10
+	Squirtle (19/9/11/9/10) +[-1/0/0/0] -> (19/5/11/9/10)
 	Tackle 3-4	(crit: 4-5)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 4x38, 5x1
 		(Overall 6-hit Kill%: 13.2616%)
 	Tail Whip
 
-	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12
+	Bulbasaur (20/10/10/10/12) +[0/-1/0/0] -> (20/10/6/10/12)
 	Tackle 3-4	(crit: 4-5)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 4x38, 5x1
@@ -95,7 +95,7 @@ Tackle 5-6	(crit: 6-8)
 	Crit rolls: 6x7, 7x31, 8x1
 Tail Whip
 
-Pidgey (15/8/7/8/7)
+Pidgey (15/7/7/8/7)
 Gust 3-4	(crit: 3-4)
 	Normal rolls: 3x38, 4x1
 	Crit rolls: 3x38, 4x1
@@ -126,7 +126,7 @@ Tackle 5-6	(crit: 6-8)
 	Crit rolls: 6x7, 7x31, 8x1
 Tail Whip
 
-Rattata (15/8/7/9/6)
+Rattata (14/8/7/9/6)
 Tackle 3-4	(crit: 3-4)
 	Normal rolls: 3x38, 4x1
 	Crit rolls: 3x38, 4x1
@@ -160,7 +160,7 @@ Variation good_att_bad_rat_tw:
 		Crit rolls: 7x10, 8x28, 9x1
 	Tail Whip
 
-	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6)
 	Tackle 3-4	(crit: 3-4)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 3x38, 4x1
@@ -195,7 +195,7 @@ Variation good_att_good_rat_tw:
 		(Overall 2-hit Kill%: 4.1420%)
 	Tail Whip
 
-	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7)
 	Tackle 3-4	(crit: 3-4)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 3x38, 4x1
@@ -229,7 +229,7 @@ Variation bad_att_bad_rat_tw:
 		(Overall 2-hit Kill%: 99.0932%)
 	Tail Whip
 
-	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6
+	Rattata (14/8/7/9/6) +[0/-1/0/0] -> (14/8/4/9/6)
 	Tackle 3-4	(crit: 3-4)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 3x38, 4x1
@@ -264,7 +264,7 @@ Variation bad_att_good_rat_tw:
 		Crit rolls: 5x2, 6x36, 7x1
 	Tail Whip
 
-	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7
+	Rattata (15/9/8/10/7) +[0/-1/0/0] -> (15/9/5/10/7)
 	Tackle 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
@@ -273,7 +273,7 @@ Variation bad_att_good_rat_tw:
 	Tail Whip
 
 
-BUG CATCHER (0x39dd7: L9 Weedle) Prize 90
+BUG CATCHER (WEEDLE GUY) (0x39dd7: L9 Weedle) Prize 90
 LVL 6 EXP NEEDED: 11/57
 L6 Squirtle vs L9 Weedle          >>> EXP GIVEN: 99
 Squirtle (21/11/13/11/12)
@@ -284,7 +284,7 @@ Tackle 6-8	(crit: 5-6)
 	(Overall 5-hit Kill%: 99.9963%)
 Tail Whip
 
-Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10)
 Poison Sting 3-4	(crit: 5-6)
 	Normal rolls: 3x38, 4x1
 	Crit rolls: 5x38, 6x1
@@ -303,7 +303,7 @@ Variation good_att:
 		(Overall 5-hit Kill%: 99.9963%)
 	Tail Whip
 
-	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10)
 	Poison Sting 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
@@ -323,7 +323,7 @@ Variation bad_att_2:
 		(Overall 6-hit Kill%: 99.9981%)
 	Tail Whip
 
-	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10
+	Weedle (27/12/11/15/10) +[0/-2/0/0] -> (27/12/5/15/10)
 	Poison Sting 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
@@ -342,7 +342,7 @@ Variation bad_att_3:
 		(Overall 5-hit Kill%: 99.9506%)
 	Tail Whip
 
-	Weedle (27/12/11/15/10) +[0/-3/0/0] -> (27/12/4/15/10
+	Weedle (27/12/11/15/10) +[0/-3/0/0] -> (27/12/4/15/10)
 	Poison Sting 3-4	(crit: 5-6)
 		Normal rolls: 3x38, 4x1
 		Crit rolls: 5x38, 6x1
@@ -436,7 +436,7 @@ Variation good_defense_2:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (29/16/19/15/16) +[0/-2/0/0] -> (29/16/9/15/16
+	Squirtle (29/16/19/15/16) +[0/-2/0/0] -> (29/16/9/15/16)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39
@@ -457,7 +457,7 @@ Variation good_defense_4:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (29/16/19/15/16) +[0/-4/0/0] -> (29/16/6/15/16
+	Squirtle (29/16/19/15/16) +[0/-4/0/0] -> (29/16/6/15/16)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39
@@ -479,7 +479,7 @@ Variation good_defense_6:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (29/16/19/15/16) +[0/-6/0/0] -> (29/16/4/15/16
+	Squirtle (29/16/19/15/16) +[0/-6/0/0] -> (29/16/4/15/16)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39
@@ -501,7 +501,7 @@ Variation bad_defense_2:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (27/13/16/13/14) +[0/-2/0/0] -> (27/13/8/13/14
+	Squirtle (27/13/16/13/14) +[0/-2/0/0] -> (27/13/8/13/14)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39
@@ -523,7 +523,7 @@ Variation bad_defense_4:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (27/13/16/13/14) +[0/-4/0/0] -> (27/13/5/13/14
+	Squirtle (27/13/16/13/14) +[0/-4/0/0] -> (27/13/5/13/14)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39
@@ -545,7 +545,7 @@ Variation bad_defense_6:
 
 	LVL 9 EXP NEEDED: 127/141
 	L9 Squirtle vs L14 Onix          >>> EXP GIVEN: 324
-	Squirtle (27/13/16/13/14) +[0/-6/0/0] -> (27/13/4/13/14
+	Squirtle (27/13/16/13/14) +[0/-6/0/0] -> (27/13/4/13/14)
 	Tackle 1-1	(crit: 1-1)
 		Normal rolls: 1x39
 		Crit rolls: 1x39

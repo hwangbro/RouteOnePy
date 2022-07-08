@@ -118,6 +118,7 @@ class RouteFile:
                         raise BadTrainerIdentifierException(f'Bad offset: {identifier}')
                 elif isinstance(identifier, str):
                     if offset := self.aliases.get(identifier):
+                        self.trainers[offset].alias = identifier
                         trainers.append(self.trainers[offset])
                     else:
                         raise BadTrainerIdentifierException(f'Bad alias: {identifier}')

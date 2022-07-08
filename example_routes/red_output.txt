@@ -32,7 +32,7 @@ Screech
 Bide
 
 
-BUG CATCHER (0x39dda: L10 Caterpie, L10 Weedle, L10 Caterpie) Prize 100
+BUG CATCHER (BC1) (0x39dda: L10 Caterpie, L10 Weedle, L10 Caterpie) Prize 100
 LVL 8 EXP NEEDED: 52/105
 L8 NidoranM vs L10 Caterpie          >>> EXP GIVEN: 112
 NidoranM (27/18/14/15/13)
@@ -46,7 +46,7 @@ Horn Attack 13-16	(crit: 11-14)
 	Crit rolls: 11x2, 12x18, 13x18, 14x1
 	(Overall 2-hit Kill%: 15.4289%)
 
-Caterpie (30/12/13/15/10) +[0/-1/0/0] -> (30/12/8/15/10
+Caterpie (30/12/13/15/10) +[0/-1/0/0] -> (30/12/8/15/10)
 Tackle 4-5	(crit: 6-8)
 	Normal rolls: 4x38, 5x1
 	Crit rolls: 6x7, 7x31, 8x1
@@ -82,7 +82,7 @@ Horn Attack 17-20	(crit: 16-19)
 	Normal rolls: 17x13, 18x13, 19x12, 20x1
 	Crit rolls: 16x12, 17x13, 18x13, 19x1
 
-Weedle (29/13/12/16/10) +[0/-1/0/0] -> (29/13/7/16/10
+Weedle (29/13/12/16/10) +[0/-1/0/0] -> (29/13/7/16/10)
 Poison Sting 1-2	(crit: 2-3)
 	Normal rolls: 1x38, 2x1
 	Crit rolls: 2x38, 3x1
@@ -122,7 +122,7 @@ Horn Attack 18-22	(crit: 17-21)
 	Normal rolls: 18x4, 19x11, 20x12, 21x11, 22x1
 	Crit rolls: 17x2, 18x12, 19x12, 20x12, 21x1
 
-Caterpie (30/12/13/15/10) +[0/-1/0/0] -> (30/12/8/15/10
+Caterpie (30/12/13/15/10) +[0/-1/0/0] -> (30/12/8/15/10)
 Tackle 4-5	(crit: 5-7)
 	Normal rolls: 4x38, 5x1
 	Crit rolls: 5x2, 6x36, 7x1
@@ -152,10 +152,10 @@ Range Check 0_bb: 91.74359%
 		def_mod: +[0/-1/0/0]
 
 
-YOUNGSTER (0x39d99: L11 Rattata, L11 Ekans) Prize 165
+YOUNGSTER (SHORTS GUY) (0x39d99: L11 Rattata, L11 Ekans) Prize 165
 LVL 10 EXP NEEDED: 40/182
 L10 NidoranM vs L11 Rattata          >>> EXP GIVEN: 133
-NidoranM (32/21/16/18/16)  +<1/0/0/0> -> (32/23/16/18/16
+NidoranM (32/21/16/18/16)  +<1/0/0/0> -> (32/23/16/18/16)
 Leer
 Tackle 10-12	(crit: 9-11)
 	Normal rolls: 10x17, 11x21, 12x1
@@ -165,7 +165,7 @@ Horn Attack 17-21	(crit: 16-19)
 	Normal rolls: 17x2, 18x12, 19x12, 20x12, 21x1
 	Crit rolls: 16x12, 17x13, 18x13, 19x1
 
-Rattata (29/19/14/22/12) +[0/-1/0/0] -> (29/19/9/22/12
+Rattata (29/19/14/22/12) +[0/-1/0/0] -> (29/19/9/22/12)
 Tackle 7-9	(crit: 12-15)
 	Normal rolls: 7x10, 8x28, 9x1
 	Crit rolls: 12x4, 13x17, 14x17, 15x1
@@ -189,17 +189,17 @@ Horn Attack 16-19	(crit: 16-19)
 	Normal rolls: 16x12, 17x13, 18x13, 19x1
 	Crit rolls: 16x12, 17x13, 18x13, 19x1
 
-Ekans (30/20/16/18/15) +[0/-1/0/0] -> (30/20/10/18/15
+Ekans (30/20/16/18/15) +[0/-1/0/0] -> (30/20/10/18/15)
 Wrap 3-4	(crit: 4-5)
 	Normal rolls: 3x38, 4x1
 	Crit rolls: 4x38, 5x1
 Leer
 Poison Sting 2-3	(crit: 2-3)
 	Normal rolls: 2x38, 3x1
-	Crit rolls: 2x2, 3x37
+	Crit rolls: 2x38, 3x1
 
 
-BUG CATCHER (0x39ddf: L9 Weedle, L9 Kakuna, L9 Caterpie, L9 Metapod) Prize 90
+BUG CATCHER (BC2) (0x39ddf: L9 Weedle, L9 Kakuna, L9 Caterpie, L9 Metapod) Prize 90
 LVL 12 EXP NEEDED: 281/288
 L12 NidoranM vs L9 Weedle          >>> EXP GIVEN: 99
 LVL 12 EXP NEEDED: 182/288
@@ -210,14 +210,14 @@ LVL 13 EXP NEEDED: 295/351
 L13 NidoranM vs L9 Metapod          >>> EXP GIVEN: 138
 
 
-BUG CATCHER (0x39de5: L11 Caterpie, L11 Metapod) Prize 110
+BUG CATCHER (BC3) (0x39de5: L11 Caterpie, L11 Metapod) Prize 110
 LVL 13 EXP NEEDED: 157/351
 L13 NidoranM vs L11 Caterpie          >>> EXP GIVEN: 124
 LVL 13 EXP NEEDED: 33/351
 L13 NidoranM vs L11 Metapod          >>> EXP GIVEN: 169
 
 
-ROCKET (0x3a29c: L13 Rattata, L13 Zubat) Prize 390
+ROCKET (MOON ROCKET) (0x3a29c: L13 Rattata, L13 Zubat) Prize 390
 LVL 14 EXP NEEDED: 287/423
 L14 NidoranM vs L13 Rattata          >>> EXP GIVEN: 157
 NidoranM (41/28/21/23/20)
@@ -249,14 +249,14 @@ Quick Attack 8-10	(crit: 13-16)
 	(Overall 4-hit Kill%: 25.9733%)
 	(Overall 5-hit Kill%: 99.8071%)
 
-Range Check 1_bb: 0.00000%
+Range Check 1_bb: 100.00000%
 	Turn #1: Move: Horn Attack
 		att_mod: <No Stat Modifications>
 		def_mod: +[0/-1/0/0]
 	Turn #2: Move: Horn Attack
 		att_mod:  +<1/0/0/0>
 		def_mod: +[0/-1/0/0]
-Range Check 2_bb: 0.00000%
+Range Check 2_bb: 100.00000%
 	Turn #1: Move: Horn Attack
 		att_mod:  +<1/0/0/0>
 		def_mod: +[0/-1/0/0]
@@ -280,7 +280,7 @@ Poison Sting 4-5	(crit: 5-6)
 	Crit rolls: 5x38, 6x1
 	(Overall 8-hit Kill%: 6.9549%)
 
-Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17
+Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17)
 Leech Life 6-8	(crit: 10-12)
 	Normal rolls: 6x7, 7x31, 8x1
 	Crit rolls: 10x17, 11x21, 12x1
@@ -292,7 +292,7 @@ Variation -1_def:
 
 	LVL 14 EXP NEEDED: 130/423
 	L14 NidoranM vs L13 Zubat          >>> EXP GIVEN: 150
-	NidoranM (41/28/21/23/20) +[0/-1/0/0] +<1/0/0/0> -> (41/31/13/23/20
+	NidoranM (41/28/21/23/20) +[0/-1/0/0] +<1/0/0/0> -> (41/31/13/23/20)
 	Leer
 	Tackle 14-17	(crit: 13-16)
 		Normal rolls: 14x8, 15x15, 16x15, 17x1
@@ -304,14 +304,14 @@ Variation -1_def:
 		Normal rolls: 5x38, 6x1
 		Crit rolls: 5x38, 6x1
 
-	Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17
+	Zubat (35/19/16/21/17) +[0/-1/0/0] -> (35/19/10/21/17)
 	Leech Life 10-12	(crit: 10-12)
 		Normal rolls: 10x17, 11x21, 12x1
 		Crit rolls: 10x17, 11x21, 12x1
 		(Overall 4-hit Kill%: 96.3898%)
 	Supersonic
 
-Range Check 3_ha: 0.00000%
+Range Check 3_ha: 100.00000%
 	Turn #1: Move: Horn Attack
 		att_mod: <No Stat Modifications>
 		def_mod: <No Stat Modifications>
@@ -330,7 +330,7 @@ Range Check 2_ha_bb: 49.84036%
 		def_mod: <No Stat Modifications>
 
 
-SUPER NERD (0x39f2a: L12 Grimer, L12 Voltorb, L12 Koffing) Prize 300
+SUPER NERD (NERD) (0x39f2a: L12 Grimer, L12 Voltorb, L12 Koffing) Prize 300
 LVL 16 EXP NEEDED: 585/585
 L16 Nidoking vs L12 Grimer          >>> EXP GIVEN: 231
 LVL 16 EXP NEEDED: 354/585
@@ -339,7 +339,7 @@ LVL 16 EXP NEEDED: 90/585
 L16 Nidoking vs L12 Koffing          >>> EXP GIVEN: 292
 
 
-RIVAL1 (0x3a209: L18 Pidgeotto, L15 Abra, L15 Rattata, L17 Bulbasaur) Prize 595
+RIVAL1 (BRIDGE RIVAL) (0x3a209: L18 Pidgeotto, L15 Abra, L15 Rattata, L17 Bulbasaur) Prize 595
 LVL 17 EXP NEEDED: 476/678
 L17 Nidoking vs L18 Pidgeotto          >>> EXP GIVEN: 435
 LVL 17 EXP NEEDED: 41/678
@@ -350,21 +350,21 @@ LVL 18 EXP NEEDED: 401/777
 L18 Nidoking vs L17 Bulbasaur          >>> EXP GIVEN: 232
 
 
-BUG CATCHER (0x39df2: L14 Caterpie, L14 Weedle) Prize 140
+BUG CATCHER (BRIDGE 1) (0x39df2: L14 Caterpie, L14 Weedle) Prize 140
 LVL 18 EXP NEEDED: 169/777
 L18 Nidoking vs L14 Caterpie          >>> EXP GIVEN: 159
 LVL 18 EXP NEEDED: 10/777
 L18 Nidoking vs L14 Weedle          >>> EXP GIVEN: 156
 
 
-LASS (0x39e27: L14 Pidgey, L14 NidoranF) Prize 210
+LASS (BRIDGE 2) (0x39e27: L14 Pidgey, L14 NidoranF) Prize 210
 LVL 19 EXP NEEDED: 739/885
 L19 Nidoking vs L14 Pidgey          >>> EXP GIVEN: 165
 LVL 19 EXP NEEDED: 574/885
 L19 Nidoking vs L14 NidoranF          >>> EXP GIVEN: 177
 
 
-YOUNGSTER (0x39da5: L14 Rattata, L14 Ekans, L14 Zubat) Prize 210
+YOUNGSTER (BRIDGE 3) (0x39da5: L14 Rattata, L14 Ekans, L14 Zubat) Prize 210
 LVL 19 EXP NEEDED: 397/885
 L19 Nidoking vs L14 Rattata          >>> EXP GIVEN: 171
 LVL 19 EXP NEEDED: 226/885
@@ -373,26 +373,26 @@ LVL 19 EXP NEEDED: 40/885
 L19 Nidoking vs L14 Zubat          >>> EXP GIVEN: 162
 
 
-LASS (0x39e23: L16 Pidgey, L16 NidoranF) Prize 240
+LASS (BRIDGE 4) (0x39e23: L16 Pidgey, L16 NidoranF) Prize 240
 LVL 20 EXP NEEDED: 876/998
 L20 Nidoking vs L16 Pidgey          >>> EXP GIVEN: 187
 LVL 20 EXP NEEDED: 689/998
 L20 Nidoking vs L16 NidoranF          >>> EXP GIVEN: 201
 
 
-JRTRAINERM (0x39e80: L18 Mankey) Prize 360
+JRTRAINERM (BRIDGE 5) (0x39e80: L18 Mankey) Prize 360
 LVL 20 EXP NEEDED: 488/998
 L20 Nidoking vs L18 Mankey          >>> EXP GIVEN: 285
 
 
-ROCKET (0x3a2b0: L15 Ekans, L15 Zubat) Prize 450
+ROCKET (BRIDGE ROCKET) (0x3a2b0: L15 Ekans, L15 Zubat) Prize 450
 LVL 20 EXP NEEDED: 203/998
 L20 Nidoking vs L15 Ekans          >>> EXP GIVEN: 198
 LVL 20 EXP NEEDED: 5/998
 L20 Nidoking vs L15 Zubat          >>> EXP GIVEN: 172
 
 
-HIKER (0x39f6d: L17 Onix) Prize 595
+HIKER (ONIX HIKER) (0x39f6d: L17 Onix) Prize 595
 LVL 21 EXP NEEDED: 952/1119
 L21 Nidoking vs L17 Onix          >>> EXP GIVEN: 393
 
@@ -404,7 +404,7 @@ LVL 21 EXP NEEDED: 367/1119
 L21 Nidoking vs L15 NidoranF          >>> EXP GIVEN: 189
 
 
-HIKER (0x39f67: L13 Geodude, L13 Geodude, L13 Machop, L13 Geodude) Prize 455
+HIKER (BOTTOM HIKER) (0x39f67: L13 Geodude, L13 Geodude, L13 Machop, L13 Geodude) Prize 455
 LVL 21 EXP NEEDED: 178/1119
 L21 Nidoking vs L13 Geodude          >>> EXP GIVEN: 238
 LVL 22 EXP NEEDED: 1188/1248
@@ -424,7 +424,7 @@ LVL 22 EXP NEEDED: 99/1248
 L22 Nidoking vs L13 Oddish          >>> EXP GIVEN: 216
 
 
-ROCKET (0x3a2ac: L17 Machop, L17 Drowzee) Prize 510
+ROCKET (DIG ROCKET) (0x3a2ac: L17 Machop, L17 Drowzee) Prize 510
 LVL 24 EXP NEEDED: 1527/1527
 L24 Nidoking vs L17 Machop          >>> EXP GIVEN: 319
 Nidoking (81/66/52/55/50)
@@ -486,7 +486,7 @@ Confusion 20-24	(crit: 32-38)
 	(Overall 4-hit Kill%: 99.9263%)
 
 
-JRTRAINERF (0x39e9d: L19 Goldeen) Prize 380
+JRTRAINERF (GOLDEEN) (0x39e9d: L19 Goldeen) Prize 380
 LVL 24 EXP NEEDED: 838/1527
 L24 Nidoking vs L19 Goldeen          >>> EXP GIVEN: 451
 Nidoking (81/66/52/55/50)
@@ -734,7 +734,7 @@ Absorb 3-4	(crit: 5-6)
 	Crit rolls: 5x38, 6x1
 
 
-RIVAL2 (0x3a40b: L19 Pidgeotto, L16 Raticate, L18 Kadabra, L20 Ivysaur) Prize 1300
+RIVAL2 (BOAT RIVAL) (0x3a40b: L19 Pidgeotto, L16 Raticate, L18 Kadabra, L20 Ivysaur) Prize 1300
 LVL 26 EXP NEEDED: 1411/1833
 L26 Nidoking vs L19 Pidgeotto          >>> EXP GIVEN: 459
 Nidoking (88/72/56/59/54)
@@ -761,7 +761,6 @@ Gust 5-7	(crit: 11-13)
 	Normal rolls: 5x2, 6x36, 7x1
 	Crit rolls: 11x19, 12x19, 13x1
 Sand-Attack
-Sand-Attack
 Quick Attack 5-7	(crit: 11-13)
 	Normal rolls: 5x2, 6x36, 7x1
 	Crit rolls: 11x19, 12x19, 13x1
@@ -786,10 +785,10 @@ Thrash 51-61	(crit: 84-99)
 	Crit rolls: 46x39
 
 Raticate (46/33/26/38/23)
-Tail Whip
-Quick Attack 5-7	(crit: 10-12)
+Tackle 5-7	(crit: 8-10)
 	Normal rolls: 5x2, 6x36, 7x1
-	Crit rolls: 10x17, 11x21, 12x1
+	Crit rolls: 8x13, 9x25, 10x1
+Tail Whip
 Quick Attack 5-7	(crit: 10-12)
 	Normal rolls: 5x2, 6x36, 7x1
 	Crit rolls: 10x17, 11x21, 12x1
@@ -824,11 +823,6 @@ Confusion 25-30	(crit: 42-50)
 	(Overall 2-hit Kill%: 3.6540%)
 	(Overall 3-hit Kill%: 49.6058%)
 Disable
-Confusion 25-30	(crit: 42-50)
-	Normal rolls: 25x4, 26x9, 27x8, 28x9, 29x8, 30x1
-	Crit rolls: 42x3, 43x5, 44x5, 45x5, 46x5, 47x5, 48x5, 49x5, 50x1
-	(Overall 2-hit Kill%: 3.6540%)
-	(Overall 3-hit Kill%: 49.6058%)
 
 LVL 27 EXP NEEDED: 1995/1998
 L27 Nidoking vs L20 Ivysaur          >>> EXP GIVEN: 603
@@ -851,15 +845,17 @@ Thrash 42-50	(crit: 71-84)
 	(Overall 1-hit Kill%: 16.4062%)
 
 Ivysaur (57/33/33/32/40)
+Tackle 4-5	(crit: 7-9)
+	Normal rolls: 4x38, 5x1
+	Crit rolls: 7x10, 8x28, 9x1
 Growl
-Leech Seed
 Leech Seed
 Vine Whip 8-10	(crit: 13-16)
 	Normal rolls: 8x13, 9x25, 10x1
 	Crit rolls: 13x7, 14x16, 15x15, 16x1
 
 
-LTSURGE (0x3a3c1: L21 Voltorb, L18 Pikachu, L24 Raichu) Prize 2376
+LTSURGE (SURGE) (0x3a3c1: L21 Voltorb, L18 Pikachu, L24 Raichu) Prize 2376
 LVL 27 EXP NEEDED: 1392/1998
 L27 Nidoking vs L21 Voltorb          >>> EXP GIVEN: 463
 LVL 27 EXP NEEDED: 929/1998
@@ -868,7 +864,7 @@ LVL 27 EXP NEEDED: 614/1998
 L27 Nidoking vs L24 Raichu          >>> EXP GIVEN: 627
 
 
-JRTRAINERF (0x39eac: L18 Oddish, L18 Bellsprout, L18 Oddish, L18 Bellsprout) Prize 360
+JRTRAINERF (4 TURN THRASH) (0x39eac: L18 Oddish, L18 Bellsprout, L18 Oddish, L18 Bellsprout) Prize 360
 LVL 28 EXP NEEDED: 2156/2169
 L28 Nidoking vs L18 Oddish          >>> EXP GIVEN: 300
 LVL 28 EXP NEEDED: 1856/2169
@@ -879,7 +875,7 @@ LVL 28 EXP NEEDED: 1232/2169
 L28 Nidoking vs L18 Bellsprout          >>> EXP GIVEN: 324
 
 
-BUG CATCHER (0x39e07: L20 Caterpie, L20 Weedle, L20 Venonat) Prize 200
+BUG CATCHER (VENONAT) (0x39e07: L20 Caterpie, L20 Weedle, L20 Venonat) Prize 200
 LVL 28 EXP NEEDED: 908/2169
 L28 Nidoking vs L20 Caterpie          >>> EXP GIVEN: 226
 LVL 28 EXP NEEDED: 682/2169
@@ -888,26 +884,26 @@ LVL 28 EXP NEEDED: 460/2169
 L28 Nidoking vs L20 Venonat          >>> EXP GIVEN: 321
 
 
-POKEMANIAC (0x39f22: L23 Cubone, L23 Slowpoke) Prize 1150
+POKEMANIAC (TUNNEL 1) (0x39f22: L23 Cubone, L23 Slowpoke) Prize 1150
 LVL 28 EXP NEEDED: 139/2169
 L28 Nidoking vs L23 Cubone          >>> EXP GIVEN: 427
 LVL 29 EXP NEEDED: 2061/2349
 L29 Nidoking vs L23 Slowpoke          >>> EXP GIVEN: 487
 
 
-POKEMANIAC (0x39f1a: L25 Slowpoke) Prize 1250
+POKEMANIAC (TUNNEL 2) (0x39f1a: L25 Slowpoke) Prize 1250
 LVL 29 EXP NEEDED: 1574/2349
 L29 Nidoking vs L25 Slowpoke          >>> EXP GIVEN: 529
 
 
-JRTRAINERF (0x39ec2: L22 Oddish, L22 Bulbasaur) Prize 440
+JRTRAINERF (ODDISH GIRL) (0x39ec2: L22 Oddish, L22 Bulbasaur) Prize 440
 LVL 29 EXP NEEDED: 1045/2349
 L29 Nidoking vs L22 Oddish          >>> EXP GIVEN: 367
 LVL 29 EXP NEEDED: 678/2349
 L29 Nidoking vs L22 Bulbasaur          >>> EXP GIVEN: 301
 
 
-HIKER (0x39f81: L21 Geodude, L21 Geodude, L21 Graveler) Prize 735
+HIKER (TUNNEL HIKER) (0x39f81: L21 Geodude, L21 Geodude, L21 Graveler) Prize 735
 LVL 29 EXP NEEDED: 377/2349
 L29 Nidoking vs L21 Geodude          >>> EXP GIVEN: 387
 LVL 30 EXP NEEDED: 2524/2534
@@ -932,7 +928,7 @@ LVL 30 EXP NEEDED: 203/2534
 L30 Nidoking vs L24 Vulpix          >>> EXP GIVEN: 324
 
 
-RIVAL2 (0x3a42b: L25 Pidgeotto, L23 Gyarados, L22 Growlithe, L20 Kadabra, L25 Ivysaur) Prize 1625
+RIVAL2 (TOWER RIVAL) (0x3a42b: L25 Pidgeotto, L23 Gyarados, L22 Growlithe, L20 Kadabra, L25 Ivysaur) Prize 1625
 LVL 31 EXP NEEDED: 2606/2727
 L31 Nidoking vs L25 Pidgeotto          >>> EXP GIVEN: 604
 LVL 31 EXP NEEDED: 2002/2727
@@ -945,24 +941,24 @@ LVL 32 EXP NEEDED: 2826/2928
 L32 Nidoking vs L25 Ivysaur          >>> EXP GIVEN: 754
 
 
-CHANNELER (0x3a4e3: L23 Gastly, L23 Gastly) Prize 690
+CHANNELER (CHANNELER 1) (0x3a4e3: L23 Gastly, L23 Gastly) Prize 690
 LVL 32 EXP NEEDED: 2072/2928
 L32 Nidoking vs L23 Gastly          >>> EXP GIVEN: 468
 LVL 32 EXP NEEDED: 1604/2928
 L32 Nidoking vs L23 Gastly          >>> EXP GIVEN: 468
 
 
-CHANNELER (0x3a507: L24 Gastly) Prize 720
+CHANNELER (CHANNELER 2) (0x3a507: L24 Gastly) Prize 720
 LVL 32 EXP NEEDED: 1136/2928
 L32 Nidoking vs L24 Gastly          >>> EXP GIVEN: 487
 
 
-CHANNELER (0x3a504: L24 Gastly) Prize 720
+CHANNELER (CHANNELER 3) (0x3a504: L24 Gastly) Prize 720
 LVL 32 EXP NEEDED: 649/2928
 L32 Nidoking vs L24 Gastly          >>> EXP GIVEN: 487
 
 
-ROCKET (0x3a2ed: L25 Zubat, L25 Zubat, L25 Golbat) Prize 750
+ROCKET (TOWER ROCKET 1) (0x3a2ed: L25 Zubat, L25 Zubat, L25 Golbat) Prize 750
 LVL 32 EXP NEEDED: 162/2928
 L32 Nidoking vs L25 Zubat          >>> EXP GIVEN: 288
 LVL 33 EXP NEEDED: 3009/3135
@@ -971,14 +967,14 @@ LVL 33 EXP NEEDED: 2721/3135
 L33 Nidoking vs L25 Golbat          >>> EXP GIVEN: 915
 
 
-ROCKET (0x3a2f2: L26 Koffing, L26 Drowzee) Prize 780
+ROCKET (TOWER ROCKET 2) (0x3a2f2: L26 Koffing, L26 Drowzee) Prize 780
 LVL 33 EXP NEEDED: 1806/3135
 L33 Nidoking vs L26 Koffing          >>> EXP GIVEN: 634
 LVL 33 EXP NEEDED: 1172/3135
 L33 Nidoking vs L26 Drowzee          >>> EXP GIVEN: 567
 
 
-ROCKET (0x3a2f6: L23 Zubat, L23 Rattata, L23 Raticate, L23 Zubat) Prize 690
+ROCKET (TOWER ROCKET 3) (0x3a2f6: L23 Zubat, L23 Rattata, L23 Raticate, L23 Zubat) Prize 690
 LVL 33 EXP NEEDED: 605/3135
 L33 Nidoking vs L23 Zubat          >>> EXP GIVEN: 265
 LVL 33 EXP NEEDED: 340/3135
@@ -989,15 +985,15 @@ LVL 34 EXP NEEDED: 2840/3351
 L34 Nidoking vs L23 Zubat          >>> EXP GIVEN: 265
 
 
-ROCKET (0x3a319: L33 Arbok) Prize 990
+ROCKET (ARBOK) (0x3a319: L33 Arbok) Prize 990
 LVL 34 EXP NEEDED: 2575/3351
 L34 Nidoking vs L33 Arbok          >>> EXP GIVEN: 1039
 
 
-RIVAL2 (0x3a44f: L37 Pidgeot, L38 Gyarados, L35 Growlithe, L35 Alakazam, L40 Venusaur) Prize 2600
+RIVAL2 (SILPH RIVAL) (0x3a44f: L37 Pidgeot, L38 Gyarados, L35 Growlithe, L35 Alakazam, L40 Venusaur) Prize 2600
 LVL 34 EXP NEEDED: 1536/3351
 L34 Nidoking vs L37 Pidgeot          >>> EXP GIVEN: 1363
-Nidoking (113/93/82/78/71) +[0/0/1/1] -> (113/93/82/117/106
+Nidoking (113/93/82/78/71) +[0/0/1/1] -> (113/93/82/117/106)
 Thrash 34-40	(crit: 57-67)
 	Normal rolls: 34x7, 35x6, 36x6, 37x7, 38x6, 39x6, 40x1
 	Crit rolls: 57x4, 58x4, 59x4, 60x4, 61x3, 62x4, 63x4, 64x4, 65x4, 66x3, 67x1
@@ -1033,14 +1029,14 @@ Wing Attack 13-16	(crit: 28-33)
 
 LVL 34 EXP NEEDED: 173/3351
 L34 Nidoking vs L38 Gyarados          >>> EXP GIVEN: 1741
-Nidoking (113/93/82/78/71) +[0/0/1/1] -> (113/93/82/117/106
+Nidoking (113/93/82/78/71) +[0/0/1/1] -> (113/93/82/117/106)
 Thrash 31-37	(crit: 53-63)
 	Normal rolls: 31x4, 32x7, 33x7, 34x7, 35x7, 36x6, 37x1
 	Crit rolls: 53x2, 54x4, 55x4, 56x4, 57x4, 58x4, 59x4, 60x4, 61x4, 62x4, 63x1
 	(Overall 3-hit Kill%: 23.7319%)
 	(Overall 4-hit Kill%: 99.9568%)
 BubbleBeam 10-12	(crit: 13-16)
-	Normal rolls: 10x8, 11x20, 12x11
+	Normal rolls: 10x17, 11x21, 12x1
 	Crit rolls: 13x7, 14x16, 15x15, 16x1
 Thunderbolt 122-144	(crit: 156-184)
 	Normal rolls: 122x1, 123x2, 124x2, 125x2, 126x32
@@ -1049,10 +1045,6 @@ Thunderbolt 122-144	(crit: 156-184)
 Horn Drill
 
 Gyarados (126/106/71/72/87)
-Hydro Pump 88-104	(crit: 245-288)
-	Normal rolls: 88x2, 89x2, 90x3, 91x2, 92x3, 93x2, 94x2, 95x3, 96x2, 97x3, 98x2, 99x3, 100x2, 101x3, 102x2, 103x2, 104x1
-	Crit rolls: 113x39
-	(Overall 1-hit Kill%: 15.6250%)
 Bite 23-28	(crit: 48-57)
 	Normal rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
 	Crit rolls: 48x3, 49x4, 50x5, 51x4, 52x5, 53x4, 54x5, 55x4, 56x4, 57x1
@@ -1060,10 +1052,14 @@ Bite 23-28	(crit: 48-57)
 	(Overall 4-hit Kill%: 49.3178%)
 Dragon Rage
 Leer
+Hydro Pump 88-104	(crit: 245-288)
+	Normal rolls: 88x2, 89x2, 90x3, 91x2, 92x3, 93x2, 94x2, 95x3, 96x2, 97x3, 98x2, 99x3, 100x2, 101x3, 102x2, 103x2, 104x1
+	Crit rolls: 113x39
+	(Overall 1-hit Kill%: 15.6250%)
 
 LVL 35 EXP NEEDED: 2004/3572
 L35 Nidoking vs L35 Growlithe          >>> EXP GIVEN: 682
-Nidoking (116/96/84/80/74) +[0/0/1/1] -> (116/96/84/120/111
+Nidoking (116/96/84/80/74) +[0/0/1/1] -> (116/96/84/120/111)
 Thrash 57-67	(crit: 95-112)
 	Normal rolls: 57x4, 58x4, 59x4, 60x4, 61x3, 62x4, 63x4, 64x4, 65x4, 66x3, 67x1
 	Crit rolls: 89x39
@@ -1092,7 +1088,7 @@ Take Down 18-22	(crit: 38-45)
 
 LVL 35 EXP NEEDED: 1322/3572
 L35 Nidoking vs L35 Alakazam          >>> EXP GIVEN: 1395
-Nidoking (116/96/84/80/74) +[0/0/1/1] -> (116/96/84/120/111
+Nidoking (116/96/84/80/74) +[0/0/1/1] -> (116/96/84/120/111)
 Thrash 57-67	(crit: 95-112)
 	Normal rolls: 57x4, 58x4, 59x4, 60x4, 61x3, 62x4, 63x4, 64x4, 65x4, 66x3, 67x1
 	Crit rolls: 89x39
@@ -1123,7 +1119,7 @@ Recover
 
 LVL 36 EXP NEEDED: 3728/3801
 L36 Nidoking vs L40 Venusaur          >>> EXP GIVEN: 1782
-Nidoking (119/99/86/83/76) +[0/0/1/1] -> (119/99/86/124/114
+Nidoking (119/99/86/83/76) +[0/0/1/1] -> (119/99/86/124/114)
 Thrash 33-39	(crit: 53-63)
 	Normal rolls: 33x6, 34x6, 35x7, 36x6, 37x7, 38x6, 39x1
 	Crit rolls: 53x2, 54x4, 55x4, 56x4, 57x4, 58x4, 59x4, 60x4, 61x4, 62x4, 63x1
@@ -1133,8 +1129,8 @@ BubbleBeam 11-14	(crit: 14-17)
 	Crit rolls: 14x8, 15x15, 16x15, 17x1
 Thunderbolt 17-20	(crit: 20-24)
 	Normal rolls: 17x13, 18x13, 19x12, 20x1
-	Crit rolls: 20x2, 21x10, 22x11, 23x10, 24x6
-	(Overall 6-hit Kill%: 6.3923%)
+	Crit rolls: 20x7, 21x10, 22x11, 23x10, 24x1
+	(Overall 6-hit Kill%: 3.8781%)
 	(Overall 7-hit Kill%: 99.9870%)
 Horn Drill
 
@@ -1155,7 +1151,7 @@ Razor Leaf 21-25	(crit: 58-69)
 	(Overall 3-hit Kill%: 99.9954%)
 
 
-ROCKET (0x3a355: L32 Cubone, L32 Drowzee, L32 Marowak) Prize 960
+ROCKET (SILPH ROCKET) (0x3a355: L32 Cubone, L32 Drowzee, L32 Marowak) Prize 960
 LVL 36 EXP NEEDED: 1946/3801
 L36 Nidoking vs L32 Cubone          >>> EXP GIVEN: 595
 Nidoking (119/99/86/83/76)
@@ -1227,13 +1223,17 @@ Thunderbolt
 Horn Drill
 
 Marowak (85/61/80/38/42)
+Bone Club 35-42	(crit: 73-86)
+	Normal rolls: 35x2, 36x6, 37x6, 38x6, 39x6, 40x6, 41x6, 42x1
+	Crit rolls: 73x3, 74x3, 75x3, 76x3, 77x3, 78x3, 79x3, 80x3, 81x3, 82x3, 83x3, 84x3, 85x2, 86x1
+	(Overall 2-hit Kill%: 7.2768%)
+	(Overall 3-hit Kill%: 36.4304%)
 Growl
 Leer
 Focus Energy
-Leer
 
 
-GIOVANNI (0x3a286: L37 Nidorino, L35 Kangaskhan, L37 Rhyhorn, L41 Nidoqueen) Prize 4059
+GIOVANNI (SILPH GIO) (0x3a286: L37 Nidorino, L35 Kangaskhan, L37 Rhyhorn, L41 Nidoqueen) Prize 4059
 LVL 37 EXP NEEDED: 3841/4038
 L37 Nidoking vs L37 Nidorino          >>> EXP GIVEN: 934
 Nidoking (123/102/90/85/78)
@@ -1261,7 +1261,7 @@ Horn Attack 13-16	(crit: 28-34)
 	(Overall 8-hit Kill%: 65.6280%)
 Poison Sting 1-1	(crit: 2-3)
 	Normal rolls: 1x39
-	Crit rolls: 2x19, 3x20
+	Crit rolls: 2x38, 3x1
 Focus Energy
 Fury Attack 4-5	(crit: 7-9)
 	Normal rolls: 4x38, 5x1
@@ -1347,29 +1347,24 @@ Thunderbolt
 Horn Drill
 
 Nidoqueen (131/79/82/73/73)
-Body Slam 23-28	(crit: 50-59)
-	Normal rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
-	Crit rolls: 50x4, 51x4, 52x5, 53x4, 54x4, 55x5, 56x4, 57x4, 58x4, 59x1
-	(Overall 3-hit Kill%: 5.9560%)
-	(Overall 4-hit Kill%: 47.2001%)
-	(Overall 5-hit Kill%: 97.7257%)
 Scratch 11-14	(crit: 23-28)
 	Normal rolls: 11x2, 12x18, 13x18, 14x1
 	Crit rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
 	(Overall 7-hit Kill%: 6.7219%)
 	(Overall 8-hit Kill%: 31.5537%)
-Poison Sting 1-2	(crit: 3-4)
-	Normal rolls: 1x10, 2x29
-	Crit rolls: 3x10, 4x29
+Tail Whip
 Body Slam 23-28	(crit: 50-59)
 	Normal rolls: 23x2, 24x9, 25x9, 26x9, 27x9, 28x1
 	Crit rolls: 50x4, 51x4, 52x5, 53x4, 54x4, 55x5, 56x4, 57x4, 58x4, 59x1
 	(Overall 3-hit Kill%: 5.9560%)
 	(Overall 4-hit Kill%: 47.2001%)
 	(Overall 5-hit Kill%: 97.7257%)
+Poison Sting 1-2	(crit: 3-4)
+	Normal rolls: 1x38, 2x1
+	Crit rolls: 3x38, 4x1
 
 
-JUGGLER (0x3a13a: L31 Drowzee, L31 Drowzee, L31 Kadabra, L31 Drowzee) Prize 1085
+JUGGLER (JUGGLER 1) (0x3a13a: L31 Drowzee, L31 Drowzee, L31 Kadabra, L31 Drowzee) Prize 1085
 LVL 38 EXP NEEDED: 3103/4281
 L38 Nidoking vs L31 Drowzee          >>> EXP GIVEN: 676
 LVL 38 EXP NEEDED: 2427/4281
@@ -1380,7 +1375,7 @@ LVL 38 EXP NEEDED: 788/4281
 L38 Nidoking vs L31 Drowzee          >>> EXP GIVEN: 676
 
 
-JUGGLER (0x3a140: L34 Drowzee, L34 Hypno) Prize 1190
+JUGGLER (JUGGLER 2) (0x3a140: L34 Drowzee, L34 Hypno) Prize 1190
 LVL 38 EXP NEEDED: 112/4281
 L38 Nidoking vs L34 Drowzee          >>> EXP GIVEN: 742
 LVL 39 EXP NEEDED: 3903/4533
@@ -1396,7 +1391,7 @@ LVL 39 EXP NEEDED: 488/4533
 L39 Nidoking vs L37 Koffing          >>> EXP GIVEN: 903
 
 
-BEAUTY (0x3a0db: L26 Exeggcute) Prize 1820
+BEAUTY (EGGS) (0x3a0db: L26 Exeggcute) Prize 1820
 LVL 43 EXP NEEDED: 5607/5607
 L43 Nidoking vs L26 Exeggcute          >>> EXP GIVEN: 546
 
@@ -1432,12 +1427,12 @@ LVL 45 EXP NEEDED: 4588/6188
 L45 Nidoking vs L43 Alakazam          >>> EXP GIVEN: 1713
 
 
-COOLTRAINERM (0x3a382: L43 Rhyhorn) Prize 1505
+COOLTRAINERM (RHYHORN) (0x3a382: L43 Rhyhorn) Prize 1505
 LVL 45 EXP NEEDED: 2875/6188
 L45 Nidoking vs L43 Rhyhorn          >>> EXP GIVEN: 1243
 
 
-BLACKBELT (0x3a1da: L38 Machoke, L38 Machop, L38 Machoke) Prize 950
+BLACKBELT (BLACK BELT) (0x3a1da: L38 Machoke, L38 Machop, L38 Machoke) Prize 950
 LVL 45 EXP NEEDED: 1632/6188
 L45 Nidoking vs L38 Machoke          >>> EXP GIVEN: 1188
 LVL 45 EXP NEEDED: 444/6188
@@ -1446,7 +1441,7 @@ LVL 46 EXP NEEDED: 6218/6489
 L46 Nidoking vs L38 Machoke          >>> EXP GIVEN: 1188
 
 
-GIOVANNI (0x3a290: L45 Rhyhorn, L42 Dugtrio, L44 Nidoqueen, L45 Nidoking, L50 Rhydon) Prize 4950
+GIOVANNI (GIO 2) (0x3a290: L45 Rhyhorn, L42 Dugtrio, L44 Nidoqueen, L45 Nidoking, L50 Rhydon) Prize 4950
 LVL 46 EXP NEEDED: 5030/6489
 L46 Nidoking vs L45 Rhyhorn          >>> EXP GIVEN: 1300
 LVL 46 EXP NEEDED: 3730/6489
@@ -1459,10 +1454,10 @@ LVL 47 EXP NEEDED: 5444/6798
 L47 Nidoking vs L50 Rhydon          >>> EXP GIVEN: 2185
 
 
-RIVAL2 (0x3a475: L47 Pidgeot, L45 Rhyhorn, L45 Gyarados, L47 Growlithe, L50 Alakazam, L53 Venusaur) Prize 3445
+RIVAL2 (VIRIDIAN RIVAL) (0x3a475: L47 Pidgeot, L45 Rhyhorn, L45 Gyarados, L47 Growlithe, L50 Alakazam, L53 Venusaur) Prize 3445
 LVL 47 EXP NEEDED: 3259/6798
 L47 Nidoking vs L47 Pidgeot          >>> EXP GIVEN: 1731
-Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124
+Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124)
 Thunderbolt 105-124	(crit: 163-192)
 	Normal rolls: 105x1, 106x3, 107x2, 108x2, 109x2, 110x2, 111x2, 112x2, 113x2, 114x2, 115x2, 116x2, 117x2, 118x2, 119x2, 120x2, 121x2, 122x2, 123x2, 124x1
 	Crit rolls: 142x39
@@ -1493,7 +1488,7 @@ Agility
 
 LVL 47 EXP NEEDED: 1528/6798
 L47 Nidoking vs L45 Rhyhorn          >>> EXP GIVEN: 1300
-Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124
+Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124)
 Thunderbolt
 Horn Drill
 Earthquake 139-164	(crit: 241-284)
@@ -1518,7 +1513,7 @@ Horn Drill
 
 LVL 47 EXP NEEDED: 228/6798
 L47 Nidoking vs L45 Gyarados          >>> EXP GIVEN: 2062
-Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124
+Nidoking (155/130/113/121/111) +[0/0/1/0] +<0/0/0/1> -> (155/130/113/182/124)
 Thunderbolt 163-192	(crit: 248-292)
 	Normal rolls: 147x39
 	Crit rolls: 147x39
@@ -1545,7 +1540,7 @@ Hydro Pump 103-122	(crit: 241-284)
 
 LVL 48 EXP NEEDED: 5279/7113
 L48 Nidoking vs L47 Growlithe          >>> EXP GIVEN: 916
-Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128
+Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128)
 Thunderbolt 74-88	(crit: 113-133)
 	Normal rolls: 74x1, 75x3, 76x3, 77x3, 78x2, 79x3, 80x3, 81x3, 82x3, 83x3, 84x3, 85x3, 86x3, 87x2, 88x1
 	Crit rolls: 113x2, 114x2, 115x2, 116x33
@@ -1574,7 +1569,7 @@ Agility
 
 LVL 48 EXP NEEDED: 4363/7113
 L48 Nidoking vs L50 Alakazam          >>> EXP GIVEN: 1992
-Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128
+Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128)
 Thunderbolt 30-36	(crit: 45-54)
 	Normal rolls: 30x3, 31x7, 32x7, 33x7, 34x7, 35x7, 36x1
 	Crit rolls: 45x1, 46x4, 47x5, 48x5, 49x5, 50x4, 51x5, 52x5, 53x4, 54x1
@@ -1604,12 +1599,11 @@ Reflect
 
 LVL 48 EXP NEEDED: 2371/7113
 L48 Nidoking vs L53 Venusaur          >>> EXP GIVEN: 2361
-Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128
+Nidoking (158/132/117/124/114) +[0/0/1/0] +<0/0/0/1> -> (158/132/117/186/128)
 Thunderbolt 18-22	(crit: 28-33)
 	Normal rolls: 18x4, 19x11, 20x12, 21x11, 22x1
-	Crit rolls: 28x4, 29x8, 30x7, 31x8, 32x8, 33x4
-	(Overall 6-hit Kill%: 1.2217%)
-	(Overall 7-hit Kill%: 31.5363%)
+	Crit rolls: 28x8, 29x7, 30x8, 31x8, 32x7, 33x1
+	(Overall 7-hit Kill%: 30.2432%)
 	(Overall 8-hit Kill%: 96.8710%)
 Horn Drill
 Earthquake 71-84	(crit: 120-142)
@@ -1708,13 +1702,7 @@ Blizzard 117-138	(crit: 204-240)
 	(Overall 1-hit Kill%: 16.4062%)
 
 Golbat (158/104/92/114/97)
-Bite 21-25	(crit: 44-52)
-	Normal rolls: 21x8, 22x10, 23x10, 24x10, 25x1
-	Crit rolls: 44x4, 45x5, 46x5, 47x5, 48x5, 49x5, 50x5, 51x4, 52x1
-	(Overall 5-hit Kill%: 4.5345%)
-	(Overall 6-hit Kill%: 28.5760%)
-	(Overall 7-hit Kill%: 74.1595%)
-	(Overall 8-hit Kill%: 99.9957%)
+Supersonic
 Confuse Ray
 Wing Attack 18-22	(crit: 39-46)
 	Normal rolls: 18x4, 19x11, 20x12, 21x11, 22x1
@@ -1823,11 +1811,11 @@ Thunderbolt 149-176	(crit: 251-296)
 	(Overall 1-hit Kill%: 16.4062%)
 Horn Drill
 Earthquake
-Blizzard 46-55	(crit: 79-93)
-	Normal rolls: 46x1, 47x5, 48x5, 49x4, 50x5, 51x5, 52x4, 53x5, 54x4, 55x1
-	Crit rolls: 79x3, 80x3, 81x2, 82x3, 83x3, 84x3, 85x2, 86x3, 87x3, 88x3, 89x2, 90x3, 91x3, 92x2, 93x1
-	(Overall 3-hit Kill%: 24.0816%)
-	(Overall 4-hit Kill%: 99.9960%)
+Blizzard 45-54	(crit: 78-92)
+	Normal rolls: 45x1, 46x4, 47x5, 48x5, 49x5, 50x4, 51x5, 52x5, 53x4, 54x1
+	Crit rolls: 78x2, 79x3, 80x3, 81x3, 82x3, 83x2, 84x3, 85x3, 86x3, 87x2, 88x3, 89x3, 90x3, 91x2, 92x1
+	(Overall 3-hit Kill%: 17.7883%)
+	(Overall 4-hit Kill%: 99.6945%)
 
 Gyarados (187/160/105/108/130)
 Dragon Rage
@@ -1970,10 +1958,10 @@ Hyper Beam 93-110	(crit: 204-240)
 	(Overall 1-hit Kill%: 15.6250%)
 
 
-RIVAL3 (0x3a49f: L61 Pidgeot, L59 Alakazam, L61 Rhydon, L61 Gyarados, L63 Arcanine, L65 Venusaur) Prize 6435
+RIVAL3 (CHAMP) (0x3a49f: L61 Pidgeot, L59 Alakazam, L61 Rhydon, L61 Gyarados, L63 Arcanine, L65 Venusaur) Prize 6435
 LVL 54 EXP NEEDED: 4714/9159
 L54 Nidoking vs L61 Pidgeot          >>> EXP GIVEN: 2247
-Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193
+Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193)
 Thunderbolt 146-172	(crit: 170-200)
 	Normal rolls: 146x1, 147x2, 148x1, 149x2, 150x1, 151x2, 152x1, 153x2, 154x1, 155x2, 156x1, 157x2, 158x1, 159x2, 160x1, 161x2, 162x1, 163x2, 164x1, 165x2, 166x1, 167x2, 168x1, 169x2, 170x1, 171x1, 172x1
 	Crit rolls: 170x2, 171x1, 172x1, 173x1, 174x2, 175x1, 176x1, 177x1, 178x2, 179x1, 180x1, 181x2, 182x23
@@ -2002,7 +1990,7 @@ Mirror Move
 
 LVL 54 EXP NEEDED: 2467/9159
 L54 Nidoking vs L59 Alakazam          >>> EXP GIVEN: 2350
-Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193
+Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193)
 Thunderbolt 42-50	(crit: 49-58)
 	Normal rolls: 42x3, 43x5, 44x5, 45x5, 46x5, 47x5, 48x5, 49x5, 50x1
 	Crit rolls: 49x3, 50x5, 51x4, 52x5, 53x4, 54x4, 55x5, 56x4, 57x4, 58x1
@@ -2030,7 +2018,7 @@ Reflect
 
 LVL 54 EXP NEEDED: 117/9159
 L54 Nidoking vs L61 Rhydon          >>> EXP GIVEN: 2665
-Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193
+Nidoking (178/150/131/140/129) +[0/0/0/1] +<1/1/1/0> -> (178/168/147/157/193)
 Thunderbolt
 Horn Drill
 Earthquake 127-150	(crit: 194-228)
@@ -2051,14 +2039,14 @@ Leer
 
 LVL 55 EXP NEEDED: 6976/9524
 L55 Nidoking vs L61 Gyarados          >>> EXP GIVEN: 2796
-Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196
+Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196)
 Thunderbolt 228-268	(crit: 262-308)
 	Normal rolls: 196x39
 	Crit rolls: 196x39
 Horn Drill
 Earthquake
-Blizzard 72-85	(crit: 81-96)
-	Normal rolls: 72x2, 73x3, 74x3, 75x3, 76x3, 77x3, 78x3, 79x3, 80x3, 81x3, 82x3, 83x3, 84x3, 85x1
+Blizzard 71-84	(crit: 81-96)
+	Normal rolls: 71x2, 72x3, 73x3, 74x3, 75x3, 76x3, 77x3, 78x3, 79x3, 80x3, 81x3, 82x3, 83x3, 84x1
 	Crit rolls: 81x1, 82x3, 83x3, 84x2, 85x3, 86x3, 87x2, 88x3, 89x3, 90x2, 91x3, 92x3, 93x2, 94x3, 95x2, 96x1
 
 Gyarados (196/168/111/113/136)
@@ -2076,7 +2064,7 @@ Hyper Beam 75-89	(crit: 181-213)
 
 LVL 55 EXP NEEDED: 4180/9524
 L55 Nidoking vs L63 Arcanine          >>> EXP GIVEN: 2875
-Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196
+Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196)
 Thunderbolt 67-79	(crit: 76-90)
 	Normal rolls: 67x3, 68x3, 69x3, 70x4, 71x3, 72x3, 73x3, 74x4, 75x3, 76x3, 77x3, 78x3, 79x1
 	Crit rolls: 76x2, 77x2, 78x3, 79x3, 80x3, 81x3, 82x3, 83x2, 84x3, 85x3, 86x3, 87x3, 88x3, 89x2, 90x1
@@ -2110,17 +2098,16 @@ Take Down 44-52	(crit: 104-123)
 
 LVL 55 EXP NEEDED: 1305/9524
 L55 Nidoking vs L65 Venusaur          >>> EXP GIVEN: 2896
-Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196
+Nidoking (181/154/133/142/131) +[0/0/0/1] +<1/1/1/0> -> (181/173/149/159/196)
 Thunderbolt 26-31	(crit: 30-36)
-	Normal rolls: 26x2, 27x8, 28x8, 29x8, 30x8, 31x5
+	Normal rolls: 26x6, 27x8, 28x8, 29x8, 30x8, 31x1
 	Crit rolls: 30x3, 31x7, 32x7, 33x7, 34x7, 35x7, 36x1
-	(Overall 6-hit Kill%: 1.5342%)
-	(Overall 7-hit Kill%: 99.9909%)
+	(Overall 7-hit Kill%: 99.7400%)
 Horn Drill
-Earthquake 87-103	(crit: 132-156)
-	Normal rolls: 87x1, 88x3, 89x2, 90x3, 91x2, 92x3, 93x2, 94x3, 95x2, 96x3, 97x2, 98x3, 99x2, 100x3, 101x2, 102x2, 103x1
+Earthquake 86-102	(crit: 132-156)
+	Normal rolls: 86x1, 87x2, 88x3, 89x2, 90x3, 91x2, 92x3, 93x2, 94x3, 95x2, 96x3, 97x2, 98x3, 99x2, 100x3, 101x2, 102x1
 	Crit rolls: 132x1, 133x2, 134x1, 135x2, 136x1, 137x2, 138x2, 139x1, 140x2, 141x2, 142x1, 143x2, 144x2, 145x1, 146x2, 147x1, 148x2, 149x2, 150x1, 151x2, 152x2, 153x1, 154x2, 155x1, 156x1
-	(Overall 2-hit Kill%: 69.7236%)
+	(Overall 2-hit Kill%: 62.8322%)
 Blizzard 134-158	(crit: 154-182)
 	Normal rolls: 134x1, 135x2, 136x2, 137x1, 138x2, 139x1, 140x2, 141x2, 142x1, 143x2, 144x2, 145x1, 146x2, 147x1, 148x2, 149x2, 150x1, 151x2, 152x1, 153x2, 154x2, 155x1, 156x2, 157x1, 158x1
 	Crit rolls: 154x1, 155x1, 156x1, 157x2, 158x1, 159x2, 160x1, 161x1, 162x2, 163x1, 164x2, 165x1, 166x1, 167x2, 168x1, 169x2, 170x1, 171x1, 172x2, 173x1, 174x2, 175x1, 176x1, 177x2, 178x1, 179x2, 180x1, 181x1, 182x1

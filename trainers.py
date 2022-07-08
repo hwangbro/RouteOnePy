@@ -11,6 +11,7 @@ class Trainer:
     trainer_class: TrainerClass
     pokes: list
     offset: int
+    alias: str=''
 
     @property
     def poke_list(self) -> str:
@@ -42,4 +43,9 @@ class Trainer:
         return isinstance(other, Trainer) and self.offset == other.offset
 
     def __repr__(self) -> str:
-        return f'{self.trainer_class.name} ({hex(self.offset)}: {self.poke_list}) Prize {self.prize_money}'
+        alias_str = ''
+        # Don't add the alias to the repr when it matches the class
+        # e.g. trainer class "LANCE" = alias "LANCE"
+        if self.alias and self.alias.lower() != self.trainer_class.name.lower():
+            alias_str = f' ({self.alias})'
+        return f'{self.trainer_class.name}{alias_str} ({hex(self.offset)}: {self.poke_list}) Prize {self.prize_money}'
